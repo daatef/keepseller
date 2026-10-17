@@ -1,0 +1,1244 @@
+{
+  "navcreate": "إنشاء",
+
+  "herospantext": "قم بأتمتة المعاملات، تتبع المخزون، ونمّي أعمالك بسهولة.",
+  "heroheading": "نظام إدارة متكامل للمبيعات والمشتريات.",
+  "herodescription": "يقوم نظام الإدارة القوي لدينا بتبسيط كل خطوة في عمليات المبيعات والمشتريات. من إدارة المخزون إلى مبيعات العملاء والتقارير المالية، كل شيء منظم بسلاسة ضمن منصة واحدة سهلة الاستخدام. سواء كنت تدير متجرًا صغيرًا، مقهى، أو مؤسسة متنامية، تساعدك حلولنا على توفير الوقت، تقليل الأخطاء، واتخاذ قرارات أذكى مدعومة بالبيانات في الوقت الفعلي.",
+"newFeature": "نظام ميكِّت لإدارة المبيعات والأعمال",
+  "getStarted": "ابدأ الآن",
+  "demo": "عرض تجريبي مباشر",
+  "statsUsers": "المستخدمون",
+  "statsUptime": "وقت التشغيل",
+  "statsSupport": "الدعم",
+  "stat1": "+١ ألف",
+  "stat2": "٩٩٪",
+  "stat3": "٢٤/٧",
+  "floatingRevenue": "نمو الإيرادات +٢٥٪",
+  "floatingInventory": "التحكم الذكي بالمخزون",
+
+
+
+
+
+
+
+
+
+
+
+   "featuresTitle": "الميزات الرئيسية",
+  
+  "featuresSubtitle": "أدوات قوية لإدارة مبيعاتك، تتبع المخزون، وتنمية أعمالك — كلها ضمن نظام ذكي واحد.",
+  "feature1Title": "استيراد وإدارة المنتجات",
+  "feature1Desc": "قم باستيراد وتحديث وتنظيم جميع منتجاتك بسهولة مع أسعار الجملة والتجزئة.",
+
+  "feature2Title": "إدارة المبيعات",
+  "feature2Desc": "قم ببيع المنتجات بسرعة، وتطبيق الخصومات، وطباعة الفواتير فورًا.",
+
+  "feature3Title": "معالجة المرتجعات",
+  "feature3Desc": "قم بإرجاع المنتجات المباعة أو المشتراة وضبط المخزون بدقة.",
+
+  "feature4Title": "تتبع المشتريات",
+  "feature4Desc": "سجل وادِر جميع مشترياتك من الموردين مع سجل كامل.",
+
+  "feature5Title": "تتبع المخزون اللحظي",
+  "feature5Desc": "اعرض المنتجات القليلة في المخزون وابقَ على اطلاع دائم بمستويات المخزون.",
+
+  "feature6Title": "حجز العملاء",
+  "feature6Desc": "احجز المنتجات للعملاء مع تتبع الدفعات المستحقة.",
+
+  "feature7Title": "إدارة الفروع",
+  "feature7Desc": "أضف وادِر عدة فروع أو منافذ بيع.",
+
+  "feature8Title": "تسجيل الإيرادات والمصروفات",
+  "feature8Desc": "تتبع جميع التدفقات النقدية الداخلة والخارجة لنشاطك التجاري.",
+
+  "feature9Title": "التحكم في النقد المتاح",
+  "feature9Desc": "قم بتحديث ومراجعة النقد المتاح مع سجل كامل للتعديلات.",
+
+  "feature10Title": "تحليل الأرباح والمكاسب",
+  "feature10Desc": "شاهد تقارير مفصلة عن الأرباح حسب التاريخ ونوع المنتج.",
+
+  "feature11Title": "سجل معاملات كامل",
+  "feature11Desc": "اعرض وقم بتصفية جميع المبيعات والمشتريات والتعديلات السابقة.",
+
+  "feature12Title": "دعم متعدد اللغات والاتجاه من اليمين لليسار",
+  "feature12Desc": "دعم كامل للغة العربية والإنجليزية والتخطيط من اليمين لليسار.",
+
+  "feature13Title": "طباعة الفواتير",
+  "feature13Desc": "اطبع الفواتير في أي وقت لأي معاملة.",
+
+  "feature14Title": "دعم رمز الاستجابة السريعة (QR)",
+"feature14Desc": "إنشاء ومسح رموز QR بسهولة لتبسيط المعاملات والوصول والمشاركة.",
+
+  "feature15Title": "سهل وسريع الاستخدام",
+  "feature15Desc": "تصميم بسيط وسهل الاستخدام مخصص للعمليات اليومية.",
+
+    "feature16Title": "إضافة الموردين",
+"feature16Desc": "قم بإدارة الموردين وإضافتهم بسهولة للحفاظ على المخزون منظم ومتوفر دائمًا.",
+
+
+  "feature17Title": "آمن وموثوق",
+  "feature17Desc": "يتم حماية بياناتك باستخدام أمان خلفي قوي.",
+
+
+
+
+
+
+  "quicksellbutton": "بيع سريع",
+
+
+  "historytitle": "سجل المعاملات",
+  "historytabsales": "المبيعات",
+  "historytabpurchases": "المشتريات",
+
+  "salestableheading": "سجل المبيعات",
+  "salestabledate": "التاريخ",
+  "salestableproduct": "المنتج",
+  "salestableproductprice": "سعر المنتج",
+  "salestablequantity": "الكمية",
+  "salestabletotalrevenue": "إجمالي الإيرادات",
+  "salestableactions": "الإجراءات",
+  "salestableprintbtn": "طباعة",
+  "salestableoutlet": "الفرع",
+  "salestablenooutlet": "لا يوجد فرع",
+
+
+
+  "removeSale.confirm": "⚠ هل أنت متأكد أنك تريد التراجع عن آخر عملية بيع؟ لا يمكن التراجع عن هذا الإجراء.",
+  "removeSale.loading": "جارٍ إزالة آخر إجراء...",
+  "removeSale.success": "تمت إزالة آخر إجراء.",
+  "removeSale.error": "فشل في إزالة الإجراء.",
+  "removeSale.generalError": "حدث خطأ ما.",
+  "removeSale.button": "التراجع عن البيع",
+  "removeSale.loadingBtn": "جارٍ الإزالة...",
+  "printoutlet": "الفرع",
+
+
+  "purchasetableheading": "سجل المشتريات",
+  "purchasetabledate": "التاريخ",
+  "purchasetableproduct": "المنتج",
+  "purchasetableproducthostprice": "سعر الجملة للمنتج",
+  "purchasetablequantity": "الكمية",
+  "purchasetabletotalcost": "إجمالي التكلفة",
+  "purchasetableempty": "لم يتم العثور على مشتريات.",
+
+  "sidebarhistory": "السجل",
+  "searchitems": "بحث عن العناصر",
+
+  "printreceipt": "إيصال البيع",
+  "printdate": "التاريخ",
+  "printproduct": "المنتج",
+  "printitemprice": "سعر الوحدة",
+  "printquantity": "الكمية",
+  "printtotalrevenue": "إجمالي الإيرادات",
+  "printthankyou": "شكرًا لك!",
+
+  "sessionerror": "حدث خطأ أثناء تحميل الجلسة",
+  "code": "الرمز",
+
+  "historytabreturnsales": "مرتجعات المبيعات",
+  "historytabreturnpurchases": "مرتجعات المشتريات",
+
+  "returnsaletableheading": "سجل مرتجعات المبيعات",
+  "returnsaletabledate": "التاريخ",
+  "returnsaletableproduct": "المنتج",
+  "returnsaletablequantity": "الكمية",
+  "returnsaletablerefund": "قيمة المرتجع",
+  "returnsaletablereason": "السبب",
+
+  "returnpurchasetableheading": "سجل مرتجعات المشتريات",
+  "returnpurchasetabledate": "التاريخ",
+  "returnpurchasetableproduct": "المنتج",
+  "returnpurchasetablequantity": "الكمية",
+  "returnpurchasetabletotal": "قيمة المرتجع",
+  "returnpurchasereason": "السبب",
+  
+  "returnPurchase.autoCalculateRefund": "احسب المبلغ المسترد تلقائيًا من الكمية × سعر الجملة",
+
+
+"lowStockAlertChart": "تنبيه انخفاض المخزون",
+
+  "_comment_dashboard": "ترجمة صفحة لوحة التحكم",
+  "dashboard.title": "لوحة التحكم",
+  "dashboard.search": "بحث",
+  "dashboard.error": "حدث خطأ أثناء تحميل الجلسة.",
+  "dashboard.notSubscribed": "أنت غير مشترك.",
+  "dashboard.loading": "جاري التحميل...",
+
+
+  "_comment_sidebar_nav": "ترجمات قائمة التنقل في الشريط الجانبي للتطبيق",
+  "navDashboard": "لوحة التحكم",
+  "navImportProducts": "استيراد المنتجات",
+  "navSellProduct": "بيع منتج",
+  "navPurchaseProduct": "شراء منتج",
+  "navReturnSellProduct": "عودة بيع",
+  "navReturnPurchaseProduct": "عودة شراء",
+  "navSearchProducts": "البحث عن المنتجات",
+  "navMoneyOnHand": "النقود المتاحة",
+  "navWinnings": "الأرباح",
+  "navTransactionHistory": "سجل المعاملات",
+  "navLowStock": "الكمية المنخفضة",
+  "navDataLibrary": "مكتبة البيانات",
+  "navReports": "التقارير",
+  "navWordAssistant": "مساعد الكلمات",
+  "navIncomeAndExpense":"الدخل و المصروفات",
+  "navBookingProduct": "حجوزات المنتجات",
+  "navAddOutlets": "إضافة فرع",
+
+
+
+
+
+  "lifelong subscription": "اشتراك مدى الحياة",
+
+  "orderSummary": "ملخص الطلب",
+  "makePayment": "إتمام الدفع",
+  "payNow": "ادفع الآن",
+  "processing": "جارٍ المعالجة...",
+  "total": "المجموع",
+  "poweredBy": "دفع آمن بواسطة KeepSeller و Paymob",
+
+
+
+
+
+ "_comment_sell_products": "بداية ترجمة صفحة بيع المنتجات",
+  "sale.searchHeader": "ابحث في المنتجات المخزنة.",
+  "sale.searchPlaceholder": "ابحث عن المنتجات...",
+  "sale.noPurchases": "لا توجد عمليات شراء حتى الآن",
+  "sale.wholesale": "سعر الجملة",
+  "sale.sellingPrice": "سعر البيع",
+  "sale.selling": "سعر البيع",
+  "sale.quantityInStock": "الكمية في المخزون",
+  "sale.stock": "المخزون",
+  "sale.profit": "الربح",
+  "sale.searchOutlet": "ابحث عن الفروع...",
+  "sale.quantityPlaceholder": "أدخل الكمية المراد بيعها",
+  "sale.sellProduct": "بيع المنتج",
+  "sale.pleaseSelectProduct": "يرجى اختيار المنتج والكمية.",
+  "sale.saleReceipt": "إيصال البيع",
+  "sale.date": "التاريخ",
+  "sale.product": "المنتج",
+  "sale.quantity": "الكمية",
+  "sale.unitPrice": "سعر الوحدة",
+  "sale.total": "الإجمالي",
+  "sale.thankYou": "شكرًا على الشراء!",
+  "sale.billPrintedSuccess": "تم طباعة الفاتورة بنجاح",
+  "sale.saleRecordedSuccess": "تم تسجيل عملية البيع بنجاح",
+  "sale.saleRecordFailed": "فشل في تسجيل عملية البيع",
+  "sale.genericError": "حدث خطأ ما. حاول مرة أخرى.",
+  "sale.sellProducts": "بيع المنتجات",
+  "sale.dashboard.error": "حدث خطأ أثناء تحميل لوحة التحكم.",
+  "sale.outlet": "الفرع",
+  "sale.noOutlet": "لم يتم اختيار فرع",
+  "sale.multiSellProducts": "بيع متعدد المنتجات",
+  "sale.alreadyInCart": "هذا المنتج موجود بالفعل في السلة",
+  "sale.emptyCart": "سلة التسوق فارغة",
+  "sale.cart": "السلة",
+  "sale.searchPlaceholder": "ابحث عن المنتجات...",
+  "sale.searchOutlet": "ابحث عن الفرع...",
+  "sale.saleRecordedSuccess": "تم تسجيل البيع بنجاح",
+  "sale.saleRecordFailed": "فشل في تسجيل عملية البيع",
+  "sale.genericError": "حدث خطأ، حاول مرة أخرى",
+  "sale.dashboard.error": "خطأ في تحميل لوحة التحكم",
+  "sale.total": "الإجمالي",
+  "sale.completeSale": "إتمام البيع",
+  "sale.subtotal": "المجموع الفرعي",
+  "toast.productFound": "تمت إضافة المنتج من المسح",
+  "toast.productNotFound": "المنتج غير موجود",
+  "wholesale": "سعر الجملة",
+  "sellingPrice": "سعر البيع",
+  "quantityInStock": "الكمية المتوفرة",
+  "noPurchases": "لا توجد مشتريات بعد",
+  "minimumAlertLevelNum": "الحد الأدنى للتنبيه",
+  "profit": "الربح",
+    "sale.product": "المنتج",
+    "sale.qty": "الكمية",
+    "sale.price": "السعر",
+    "sale.total": "الإجمالي",
+  "receiptTitle": "إيصال",
+
+  "_comment_search_products": "بداية ترجمة صفحة البحث عن المنتجات",
+  "searchHeader": "البحث عن المنتجات المخزنة.",
+  "searchPlaceholder": "ابحث عن المنتجات...",
+  "noPurchases": "لا توجد عمليات شراء حتى الآن",
+  "wholesale": "سعر الجملة",
+  "sellingPrice": "سعر البيع",
+  "quantityInStock": "الكمية المتوفرة في المخزون",
+  "profit": "الربح",
+  "minimumAlertLevelNum": "اقل كمية تخزين",
+
+
+
+  
+  "sale.addedToCart": "تمت إضافة المنتج إلى السلة",
+  "sale.removedFromCart": "تمت إزالة المنتج من السلة",
+  "sale.emptyCartError": "السلة فارغة",
+
+
+
+
+
+"ReturnCart": "إرجاع المنتجات",
+
+
+
+
+
+
+  
+  "_comment_section_cards": "بداية الترجمة لمكون البطاقات الإحصائية",
+  "sectionCards.totalRevenue": "إجمالي الأرباح",
+  "sectionCards.totalRevenueExtra": "إجمالي الأرباح المكتسبة من جميع مبيعات المنتجات.",
+  "sectionCards.totalSoldProducts": "إجمالي المنتجات المباعة",
+  "sectionCards.totalSoldProductsExtra": "إجمالي عدد المنتجات التي تم بيعها للعملاء.",
+  "sectionCards.totalProductsInStore": "المنتجات في المخزون",
+  "sectionCards.totalProductsInStoreExtra": "عدد المنتجات المتوفرة حالياً في المخزون.",
+  "sectionCards.growthRate": "معدل النمو",
+  "sectionCards.growthRateExtra": "النمو بناءً على المنتجات المباعة مقارنة بالمخزون المتبقي.",
+  "sectionCards.moneyOnHand": "النقد المتوفر",
+  "sectionCards.moneyOnHandExtra": "النقد المتوفر الناتج عن المبيعات والتحديثات.",
+  "sectionCards.totalIncome": "اجمالى الدخل المضاف",
+  "sectionCards.totalIncomeExtra": "الدخل الإضافي المُضاف إلى النقد المتوفر.",
+  "sectionCards.totalExpenses": "إجمالي المصروفات",
+  "sectionCards.totalExpensesExtra": "إجمالي المصروفات المخصومة من النقد المتوفر.",
+
+
+
+  "_comment_winnings_chart": "الترجمة لمكون مخطط الأرباح",
+  "winningsChart.chartLabel": "الأرباح",
+  "winningsChart.desktopLabel": "القيمة",
+  "winningsChart.mobileLabel": "أخرى",
+  "winningsChart.title": "نظرة على الأرباح",
+  "winningsChart.description": "الإيرادات وعدد المنتجات المباعة مع مرور الوقت.",
+  "winningsChart.rangeFull": "حدد الفترة الزمنية لعرض الأداء",
+  "winningsChart.rangeShort": "الفترة الزمنية",
+  "winningsChart.last90Days": "آخر 90 يومًا",
+  "winningsChart.last30Days": "آخر 30 يومًا",
+  "winningsChart.last7Days": "آخر 7 أيام",
+  "winningsChart.revenueLabel": "الإيرادات",
+  "winningsChart.quantityLabel": "الكمية المباعة",
+
+  "_comment_bar_chart": "مخطط الأرباح حسب الشهر",
+  "barChart.title": "الأرباح الشهرية",
+  "barChart.description": "تتبع إجمالي أرباحك شهريًا.",
+  "barChart.label": "إجمالي الأرباح",
+  "barChart.trend": "اتجاه تصاعدي",
+  "barChart.footer": "نمو إيجابي في الأشهر الأخيرة.",
+
+
+
+  "_comment_reset": "زر إعادة تعيين قاعدة البيانات",
+  "reset.button": "إعادة تعيين قاعدة البيانات",
+  "reset.loadingButton": "جارٍ إعادة التعيين...",
+  "reset.confirmMessage": "⚠️ هذا الإجراء سيؤدي إلى إعادة تعيين قاعدة البيانات بالكامل ولا يمكن التراجع عنه.\n\nللتأكيد، اكتب: RESET",
+  "reset.confirmFailed": "فشل التأكيد. لم تتم إعادة تعيين قاعدة البيانات.",
+  "reset.loading": "جارٍ إعادة تعيين قاعدة البيانات...",
+  "reset.success": "تمت إعادة تعيين قاعدة البيانات بنجاح!",
+  "reset.failed": "فشل في إعادة تعيين قاعدة البيانات.",
+
+
+
+
+  "initializeStorage": "ابدأ إعداد معلومات منتجات التخزين.",
+  "importNewProduct": "استيراد منتج جديد",
+  "productNamePlaceholder": "اسم المنتج",
+  "productImagePlaceholder": "صورة المنتج",
+
+  "wholesalePlaceholder": "سعر الجملة",
+  "percentagePlaceholder": "نسبة الربح",
+  "sellingPricePlaceholder": "سعر البيع",
+  "ProductsQuantityPlaceholder": "الكمية",
+  "importProduct": "استيراد المنتج",
+  "ProductsWholesale": "سعر الجملة",
+  "ProductsQuantity": "الكمية",
+  "ProductsSellingPrice": "سعر البيع",
+  "ProductsNoPurchases": "لا توجد مشتريات بعد",
+  "ProductsProfit": "نسبة الربح",
+  "toast.fillRequiredFields": "يرجى ملء جميع الحقول المطلوبة بشكل صحيح.",
+  "toast.productSaved": "تم حفظ المنتج بنجاح!",
+  "toast.somethingWrong": "حدث خطأ ما.",
+  "toast.sessionError": "حدث خطأ أثناء تحميل الجلسة",
+  "minimumAlertPlaceholder": "أدخل الحد الأدنى للتنبيه",
+  "trackInventory": "تتبع المخزون",
+  "toast.duplicateCode": "رمز المنتج مستخدم بالفعل.",
+  "productCodePlaceholder": "رمز المنتج (الباركود أو SKU)",
+  "sale.noProductsAvailable": "لا توجد منتجات متاحة، سيتم الرجوع...",
+"_comment_pocket_page": "صفحة المحفظة",
+"pocket.title": "محفظتك | النقود المتوفرة.",
+"pocket.moneyOnHand": "النقود المتوفرة",
+"pocket.updateMoneyLabel": "تحديث المبلغ",
+"pocket.moneyPlaceholder": "أدخل المبلغ الجديد",
+"pocket.updateButton": "تحديث",
+"toast.enterValidNumber": "يرجى إدخال رقم صحيح",
+"toast.moneyUpdated": "تم تحديث المبلغ بنجاح",
+"toast.failedUpdate": "فشل في تحديث المبلغ",
+"toast.sessionErrorPocket": "حدث خطأ أثناء تحميل الجلسة",
+
+"pocket.historyTitle": "سجل تحديث الرصيد",
+
+"pocket.historyDate": "التاريخ",
+"pocket.historyAmount": "المبلغ",
+
+
+
+
+"_comment_purchase_page": "صفحة شراء المنتجات",
+  "purchase.title": "شراء المنتجات وإضافتها إلى متجرك.",
+  "purchase.pageTitle": "شراء منتج",
+  "purchase.productLabel": "المنتج",
+  "purchase.selectProduct": "اختر منتجًا",
+  "purchase.searchProduct": "ابحث عن منتج...",
+  "purchase.noProducts": "لا توجد منتجات متاحة",
+  "purchase.stock": "المخزون",
+  "purchase.quantityLabel": "الكمية",
+  "purchase.quantityPlaceholder": "أدخل الكمية",
+  "purchase.submitButton": "تنفيذ عملية الشراء",
+  "toast.selectProductQuantity": "يرجى اختيار منتج وكمية",
+  "toast.purchaseSuccess": "تم تسجيل عملية الشراء بنجاح",
+  "toast.purchaseFailed": "فشل في تسجيل عملية الشراء",
+  "toast.sessionErrorPurchase": "حدث خطأ أثناء تحميل الجلسة",
+
+  "_comment_undo_button": "زر التراجع عن الشراء",
+  "undo.button": "تراجع عن الشراء",
+  "undo.removingButton": "جارٍ الإزالة...",
+  "undo.removing": "جارٍ إزالة آخر عملية شراء...",
+  "undo.success": "تمت إزالة آخر عملية شراء.",
+  "undo.failure": "فشل في إزالة عملية الشراء.",
+  "undo.error": "حدث خطأ ما.",
+  "undo.confirmMessage": "⚠ هل أنت متأكد أنك تريد التراجع عن آخر عملية شراء؟ لا يمكن التراجع عن هذا الإجراء.",
+
+  "_comment_winning_page": "صفحة الأرباح",
+  "winning.title": "سجلات نتائج الأرباح.",
+  "winning.heading": "سجلات الأرباح",
+  "winning.totalWinnings": "إجمالي الأرباح",
+  "winning.totalSold": "إجمالي المنتجات المباعة",
+  "winningfilterstartDate": "تاريخ البدء",
+  "winningfilterendDate": "تاريخ الانتهاء",
+  "winningfilterbutton": "تصفية",
+  "winning.table.date": "التاريخ",
+  "winning.table.winnings": "الأرباح",
+  "winning.table.product": "المنتج",
+  "winning.table.quantity": "الكمية المباعة",
+  "winning.table.noData": "لا توجد أرباح.",
+  "toast.sessionErrorWinning": "خطأ في تحميل الجلسة",
+
+  "footerDescription": "منصة متكاملة للمبيعات والمشتريات. تمكين الشركات من العمل بشكل أسرع وأكثر ذكاءً وكفاءة.",
+  "footerCopyright": "حقوق النشر © ميكيت. 2025. جميع الحقوق محفوظة.",
+  "footerDeveloper": "تم التطوير بواسطة دافيد عاطف زكي عريان.",
+  "footerSocial": {
+    "facebook": "فيسبوك",
+    "instagram": "إنستغرام",
+    "twitter": "تويتر",
+    "github": "جيت هب",
+    "dribbble": "دريبل"
+  },
+
+
+
+
+
+
+
+    "footerColumns.company": "الشركة",
+    "footerColumns.products": "المنتجات",
+    "footerColumns.support": "الدعم",
+    "footerLinks.about": "من نحن",
+    "footerLinks.careers": "الوظائف",
+    "footerLinks.about.developer": "عن المطور",
+    "footerLinks.pricing": "التسعير",
+    "footerLinks.features": "المميزات",
+    "footerLinks.checkout": "الدفع",
+    "footerLinks.terms": "الشروط والأحكام",
+    "footerLinks.privacy": "سياسة الخصوصية",
+    "footerLinks.refund": "سياسة الاسترجاع",
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  "career.hero.title": "ابنِ المستقبل معنا",
+  "career.hero.subtitle": "انضم إلى فريق مبدع وكن جزءًا من بناء شركة مبتكرة وسريعة النمو.",
+  "career.hero.cta": "استكشف الفرص",
+
+  "career.openPositions": "الوظائف المتاحة",
+  "career.searchPlaceholder": "ابحث حسب الوظيفة أو القسم أو الموقع",
+
+  "career.applyNow": "قدّم الآن",
+  "career.applyTitle": "التقديم على الوظيفة",
+
+  "career.job.type": "دوام كامل",
+  "career.job.remote": "عن بُعد",
+  "career.job.location": "الموقع",
+
+  "career.cultureTitle": "ثقافتنا",
+  "career.culture.innovation": "الابتكار",
+  "career.culture.innovationText": "نشجع الأفكار الجريئة والتفكير الإبداعي لدفع الحدود إلى الأمام.",
+  "career.culture.growth": "التطور",
+  "career.culture.growthText": "ندعم نموك الشخصي والمهني في كل خطوة.",
+  "career.culture.remote": "العمل عن بُعد",
+  "career.culture.remoteText": "اعمل من أي مكان مع الحفاظ على التواصل والإنتاجية.",
+
+  "career.perksTitle": "المزايا والفوائد",
+  "career.perks.health": "تأمين صحي",
+  "career.perks.healthText": "تغطية شاملة لك ولعائلتك.",
+  "career.perks.learning": "التعلم المستمر",
+  "career.perks.learningText": "إمكانية الوصول إلى الدورات وورش العمل وبرامج الإرشاد.",
+  "career.perks.flexible": "ساعات عمل مرنة",
+  "career.perks.flexibleText": "وازن بين عملك وحياتك بمرونة في المواعيد.",
+  "career.perks.teamEvents": "فعاليات الفريق",
+  "career.perks.teamEventsText": "أنشطة وفعاليات دورية لبناء الفريق والاحتفال.",
+
+  "career.form.name": "الاسم الكامل",
+  "career.form.email": "البريد الإلكتروني",
+  "career.form.message": "خطاب التقديم",
+  "career.form.submit": "إرسال الطلب",
+
+
+
+
+
+
+
+
+
+
+
+
+    "common.back": "رجوع",
+      "career.apply.info": "طلبك مهم بالنسبة لنا. يمكنك توقع رد من فريقنا خلال 48 ساعة",
+      "career.form.position": "المسمى الوظيفي",
+      "career.form.name": "الاسم الكامل",
+      "career.form.email": "البريد الإلكتروني",
+      "career.form.phone": "رقم الهاتف",
+      "career.form.cv": "رفع السيرة الذاتية (PDF)",
+      "career.form.message": "لماذا يجب أن نوظفك؟",
+      "career.form.submit": "قدّم الآن",
+      "career.toast.cvRequired": "يرجى رفع السيرة الذاتية",
+      "career.toast.success": "تم إرسال الطلب بنجاح 🚀",
+  
+  "career.toast.cvRequired": "يرجى رفع السيرة الذاتية",
+  "career.toast.success": "تم إرسال الطلب بنجاح 🚀",
+  "career.toast.error": "حدث خطأ ما",
+  "career.toast.serverError": "خطأ في الخادم، حاول مرة أخرى لاحقًا",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "contactHeaderText": "تواصل معنا",
+  "orderHeaderText": "اطلب نسختك الأن",
+
+  
+  "home": "الرئيسية",
+  "about": "من نحن",
+  "careerHeader": "وظائف",
+  "pricing": "الخطط",
+  "order": "اطلب الآن",
+  "contactHeaderText": "اتصل بنا",
+
+
+  "dashboard": "اذهب إلى لوحة التحكم",
+  "signOut": "تسجيل الخروج",
+  "signIn": "تسجيل الدخول",
+  "signUpHeader": "الإشتراك",
+
+  "signinReturn": "الرجوع إلى الصفحة الرئيسية",
+
+   "contactTitle": "احصل على المساعدة عند الحاجة.",
+  "contactReturn": "العودة إلى الصفحة السابقة.",
+  "contactMobile": "رقم الهاتف",
+  "contactAddress": "العنوان: مدينة بنى سويف الجديدة شرق النيل, بنى سويف, مصر",
+  "contactMail": "البريد الإلكتروني",
+  "contactPlaceholderName": "أدخل اسمك",
+  "contactPlaceholderEmail": "أدخل بريدك الإلكتروني",
+  "contactPlaceholderPhone": "رقم هاتفك أو جوالك",
+  "contactPlaceholderMessage": "رسالتك",
+  "contactSubmit": "إرسال",
+  "toastInvalidName": "يرجى إدخال اسم صالح.",
+  "toastInvalidEmail": "يرجى إدخال بريد إلكتروني صحيح.",
+  "toastInvalidPhone": "يجب أن يكون رقم الهاتف من 8 إلى 15 رقماً.",
+  "toastInvalidMessage": "يجب أن تكون الرسالة على الأقل 10 أحرف.",
+  "toastSuccess": "تم إرسال الرسالة بنجاح!",
+  "toastError": "حدث خطأ ما.",
+  "toastErrorNetwork": "فشل إرسال الرسالة.",
+
+
+
+
+  "notFoundTitle": "٤٠٤ - الصفحة غير موجودة",
+  "notFoundDescription": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
+  "goBackHome": "العودة إلى الصفحة الرئيسية",
+
+  "admin.warning": "صلاحيات المدير - يرجى الحذر",
+
+  "lowStockProducts": "المنتجات منخفضة المخزون",
+  "lowStock": "مخزون منخفض",
+  "lowStockProductsWholesale": "سعر الجملة",
+  "lowStockProductsSellingPrice": "سعر البيع",
+  "lowStockProductsQuantity": "الكمية في المخزون",
+  "lowStockminimumAlert": "الحد الأدنى للتنبيه",
+  "status": "الحالة",
+  "inStock": "متوفر",
+  "noProducts": "لا توجد منتجات",
+
+  "returnSale": "إرجاع عملية بيع",
+  "returnPurchase": "إرجاع شراء",
+  "return.pageTitle": "إرجاع منتج تم شراؤه",
+  "returnPurchase.productLabel": "اختر المنتج",
+  "returnPurchase.selectProduct": "اختر منتجًا",
+  "returnPurchase.searchProduct": "ابحث عن المنتج...",
+  "returnPurchase.noProducts": "لم يتم العثور على منتجات",
+  "returnPurchase.stock": "المخزون",
+  "returnPurchase.quantityLabel": "الكمية",
+  "returnPurchase.quantityPlaceholder": "أدخل الكمية",
+  "refundAmount": "قيمة الاسترجاع",
+  "reason": "السبب",
+  "submitReturn": "إرسال الإرجاع",
+  "returnToast.fillRequiredFields": "يرجى ملء جميع الحقول المطلوبة",
+  "returnRecordedSuccess": "تم تسجيل الإرجاع بنجاح",
+  "returnFailed": "فشل في تسجيل الإرجاع",
+  "returnDashboard.error": "حدث خطأ ما. الرجاء المحاولة مرة أخرى.",
+  "form.refund": "المبلغ المسترد",
+  "form.autoCalculate": "حساب تلقائي للمبلغ المسترد",
+  "form.placeholders.refund": "أدخل المبلغ المسترد",
+
+   "incomeExpense.title": "الدخل والمصروفات",
+  "incomeExpense.income": "دخل",
+  "incomeExpense.expense": "مصروف",
+  "incomeExpense.addIncome": "إضافة دخل",
+  "incomeExpense.addExpense": "إضافة مصروف",
+  "incomeExpense.incomeHistory": "سجل الدخل",
+  "incomeExpense.expenseHistory": "سجل المصروفات",
+  "form.amount": "المبلغ",
+  "form.reason": "السبب",
+  "form.submit": "إرسال",
+  "form.date": "التاريخ",
+  "incomeExpensetoast.enterValidNumber": "يرجى إدخال رقم صالح.",
+  "incomeExpensetoast.entryAdded": "تمت الإضافة بنجاح.",
+  "incomeExpensetoast.failedUpdate": "فشل في التحديث. حاول مرة أخرى لاحقًا.",
+  "incomeExpensedashboard.error": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+
+   "form.placeholders.amount": "أدخل المبلغ",
+  "form.placeholders.reason": "أدخل السبب",
+
+
+
+
+
+  "booking.title": "الحجوزات",
+  "booking.pageTitle": "حجز منتج",
+  "booking.productName": "اسم المنتج",
+  "booking.clientName": "اسم العميل",
+  "booking.mobileNumber": "رقم الهاتف",
+  "booking.quantity": "الكمية",
+  "booking.notes": "ملاحظات",
+  "booking.submitButton": "تأكيد الحجز",
+  "booking.productPlaceholder": "ادخل اسم المنتج",
+  "booking.clientPlaceholder": "ادخل اسم العميل",
+  "booking.mobilePlaceholder": "ادخل رقم الهاتف",
+  "booking.optionalNotes": "ملاحظات اختيارية",
+  "booking.tableTitle": "قائمة الحجوزات",
+  "booking.status": "الحالة",
+  "booking.actions": "تاريخ الحجز",
+  "toast.fillAllFields": "يرجى ملء جميع الحقول المطلوبة.",
+  "toast.invalidNumber": "رقم الهاتف والكمية يجب أن يكونا أرقام صحيحة.",
+  "toast.bookingSuccess": "تم الحجز بنجاح!",
+  "toast.bookingFailed": "فشل في إرسال الحجز.",
+  "toast.statusUpdated": "تم تحديث الحالة بنجاح.",
+  "toast.updateFailed": "فشل في تحديث الحالة.",
+  "bookingDashboard.error": "حدث خطأ أثناء التحميل.",
+
+  "booking.placeholders.productName": "أدخل اسم المنتج",
+  "booking.placeholders.clientName": "أدخل اسم العميل",
+  "booking.placeholders.mobileNumber": "أدخل رقم الهاتف",
+  "booking.placeholders.quantity": "أدخل الكمية",
+  "booking.placeholders.notes": "أدخل أي ملاحظات",
+
+
+  "outlet.title": "إضافة فرع",
+  "outlet.pageTitle": "إنشاء فرع جديد",
+  "outlet.nameLabel": "اسم الفرع",
+  "outlet.namePlaceholder": "أدخل اسم الفرع",
+  "outlet.locationLabel": "الموقع (اختياري)",
+  "outlet.locationPlaceholder": "أدخل الموقع",
+  "outlet.submitButton": "إضافة الفرع",
+  "outlet.outletListTitle": "جميع الفروع",
+  "toast.outletNameRequired": "اسم الفرع مطلوب",
+  "toast.outletCreated": "تم إنشاء الفرع بنجاح",
+  "toast.outletFailed": "فشل في إنشاء الفرع",
+  "outletForm.date": "التاريخ",
+  "historytableempty": "لا توجد بيانات متاحة",
+  "outletDashboard.error": "حدث خطأ أثناء تحميل البيانات",
+
+
+  "select.pending": "قيد الانتظار",
+  "select.confirmed": "تم التأكيد",
+  "select.cancelled": "أُلغي",
+  "select.completed": "مكتمل",
+
+
+  "footerLinks.about": "من نحن",
+  "footerLinks.terms": "الشروط والأحكام",
+  "footerLinks.privacy": "سياسة الخصوصية",
+  "footerLinks.refund": "سياسة الاسترجاع",
+  "footerLinks.shipping": "سياسة الشحن",
+  "footerLinks.pricing": "سياسة التسعير",
+  "footerLinks.checkout": "تعليمات الدفع",
+
+
+  "GoToMainPage": "اذهب إلى الصفحة الرئيسية",
+
+
+  "about.title": "من نحن",
+  "about.who": "نحن نظام حديث لإدارة المبيعات والمشتريات عبر الإنترنت مصمم لمساعدة الشركات على تبسيط العمليات، وتتبع المخزون، وإدارة الشؤون المالية بسهولة.",
+  "about.mission": "مهمتنا هي تمكين الشركات من جميع الأحجام من خلال أدوات سهلة الاستخدام وقوية وبأسعار معقولة لإدارة المبيعات والمشتريات عبر الإنترنت.",
+  "about.vision": "رؤيتنا هي أن نصبح المنصة الرائدة في المنطقة لإدارة المبيعات الرقمية والمخزون، وتمكين كل شركة من التحول الرقمي.",
+
+  "checkout.title": "إرشادات الدفع",
+  "checkout.steps": "يرجى اتباع الخطوات التالية لإتمام عملية الشراء.",
+  "checkout.payment": "تأكد من إتمام عملية الدفع باستخدام طريقتك المفضلة.",
+  "checkout.support": "إذا واجهت أي مشكلات، يرجى التواصل مع فريق الدعم لدينا على support@KeepSeller.com.",
+
+  "pricing.title": "سياسة التسعير",
+  "pricing.currency": "جميع الأسعار معروضة بعملتك المحلية إن أمكن.",
+  "pricing.taxes": "سعر البرنامج نهائي ومدفوع لمرة واحدة فقط مدى الحياة، ويشمل جميع الضرائب والتكاليف.",
+  "pricing.changes": "نحتفظ بالحق في تعديل الأسعار في المستقبل، ولكن العملاء الذين قاموا بالشراء بالسعر السابق لن يتأثروا بأي تغييرات لاحقة.",
+
+  "privacy.title": "سياسة الخصوصية",
+  "privacy.collection": "نقوم بجمع المعلومات الشخصية التي تقدمها لنا مباشرة، مثل عند إنشاء حساب أو التواصل مع الدعم.",
+  "privacy.use": "نستخدم معلوماتك لتقديم خدماتنا وتحسينها وتخصيصها، وكذلك للتواصل معك.",
+  "privacy.security": "نطبق تدابير أمنية مناسبة لحماية بياناتك الشخصية من الوصول غير المصرح به.",
+
+  "refund.title": "سياسة الاسترجاع",
+  "refund.eligibility": "يمكنك طلب استرجاع خلال 14 يومًا من الشراء.",
+  "refund.process": "لطلب استرجاع، يرجى التواصل مع فريق الدعم وتزويدنا بتفاصيل الطلب. سنقوم بمراجعة الطلب ومعالجته خلال 5-7 أيام عمل.",
+  "refund.contact": "إذا كان لديك أي استفسار بخصوص سياسة الاسترجاع، لا تتردد في التواصل معنا في أي وقت على support@KeepSeller.com",
+
+  "shipping.title": "سياسة الشحن",
+  "shipping.methods": "نقدم عدة طرق للشحن تشمل الشحن العادي والشحن السريع. يمكنك اختيار الطريقة التي تفضلها عند الدفع.",
+  "shipping.costs": "يتم حساب تكاليف الشحن بناءً على موقعك وطريقة التوصيل المختارة. سيتم عرض التكلفة النهائية قبل تأكيد الطلب.",
+  "shipping.time": "يتم تجهيز الطلبات خلال 1-2 يوم عمل. وقد تختلف مدة التوصيل حسب موقعك، لكنها عادة ما تكون بين 3-7 أيام عمل.",
+
+  "terms.title": "الشروط والأحكام",
+  "terms.intro": "بدخولك إلى هذا الموقع، فإنك توافق على الالتزام بهذه الشروط والأحكام. إذا كنت لا توافق على أي جزء من الشروط، فلا يجوز لك استخدام الخدمة.",
+  "terms.usage": "جميع المحتويات والبرمجيات والمواد المتوفرة في النظام هي ملكية فكرية خاصة بنا أو مرخصة لنا و لا يجوز لك نسخ أو توزيع أو تعديل أي جزء من النظام بدون إذن كتابي مسبق.",
+  "terms.responsibility": "لسنا مسؤولين عن أي أضرار تنشأ عن استخدام أو عدم القدرة على استخدام محتويات هذا الموقع.",
+  "terms.changes": "نحتفظ بالحق في تعديل الشروط والأحكام في أي وقت دون إشعار مسبق. يرجى مراجعة هذه الصفحة بانتظام للبقاء على اطلاع.",
+
+
+  "BarcodeGeneratorTitle": "توليد الباركود للمنتجات",
+  "BarcodeScannerTitle": "مسح باركود المنتج",
+  "BarcodeNotFound": "لم يتم العثور على المنتج.",
+  "BarcodeScanError": "حدث خطأ أثناء مسح الباركود.",
+
+
+
+
+  "orderTitle": "اطلب نسختك الآن",
+  "orderPlaceholderName": "الاسم الكامل",
+  "orderPlaceholderEmail": "البريد الإلكتروني",
+  "orderPlaceholderPhone": "رقم الهاتف",
+  "orderPlaceholderAddress": "عنوان الشارع",
+  "orderPlaceholderCity": "المدينة",
+  "orderPlaceholderCountry": "الدولة",
+  "orderPlaceholderNotes": "ملاحظات إضافية",
+  "orderSubmit": "إرسال الطلب",
+  "orderReturnToMain": "رجوع إلى الصفحة الرئيسية",
+  "orderCall": "اتصل بنا",
+  "orderEmail": "راسلنا عبر البريد",
+  "toastOrderSuccess": "تم إرسال طلبك بنجاح!",
+  "toastOrderError": "فشل في إرسال الطلب.",
+  "toastFillRequired": "يرجى ملء جميع الحقول المطلوبة.",
+  "toastOrderErrorNetwork": "خطأ في الشبكة، يرجى المحاولة لاحقاً.",
+
+
+  "filterStartDate": "تاريخ البداية",
+  "filterEndDate": "تاريخ النهاية",
+
+
+  "aTrialAccount": "يتوفر حساب تجريبي؛ يمكنك اختبار النظام من خلاله بالنقر أعلاه. سجّل الدخول ثم أدخل هذه المعلومات؛",
+
+  "signinReturn": "العودة إلى الصفحة الرئيسية",
+  "welcomeHeading": "مرحبًا بك في KeepSeller POS",
+  "welcomeDescription": "قم بإدارة المبيعات والمخزون والتقارير بسهولة.",
+  "signInTitle": "تسجيل الدخول إلى حسابك",
+  "signInGitHub": "تسجيل الدخول عبر GitHub",
+  "tryDemo": "تجربة النظام",
+  "needHelp": "هل تحتاج إلى مساعدة؟ اتصل بـ",
+  "supportEmail": "support@KeepSeller.com",
+  "pricing-in-egyptian.title": "سعر التسجيل في مصر",
+  "pricing-in-egyptian.text": "أهلاً بيك في صفحتنا. السعر ثابت 2000 جنيه مصري لكل تسجيل. السعر يشمل تنفيذ عملية التسجيل بالكامل. التنفيذ يتم بعد تأكيد الطلب. التواصل يكون من خلال رسائل الموقع أو تليفونياً أو عبر واتساب. لو حابب تسجل، ابعتلنا رسالة دلوقتي واحنا هنرد عليك في أسرع وقت.",
+
+  "footerLinks.pricinginegyptian": "سعر التسجيل في مصر",
+
+  "about.address": "عنوان الشركة هو مدينة بنى سويف الجديدة, بنى سويف, مصر.",
+
+  
+
+    "purchaseWholesaleprice": "سعر المنتج",
+    "purchaseStock": "الكمية لدينا",
+    "wholesale.price.purchase.total": "السعر الكلى",
+"selectSupplier": "اختار موررد",
+"purchase.wholesaleprice": "سعر الشراء للواحد",
+"returnPurchase.refundQuantity": "عدد الوحدات التى سيتم إرجاعها",
+"returnPurchase.calculatedRefund": "السعر الكلى لعدد الوحدات",
+"supplier": "الموررد",
+"navAddSupplier": "اضافه مورردين",
+
+"supplierName": "الأسم",
+"supplierPhone": "التليفون",
+"supplierEmail": "البريد الإلكترونى",
+"supplierAddress": "العنوان",
+
+
+   "manageSuppliers": "إدارة الموردين",
+  "addSupplier": "إضافة مورد",
+  "suppliersList": "قائمة الموردين",
+  "name": "الاسم",
+  "phone": "رقم الهاتف",
+  "email": "البريد الإلكتروني",
+  "address": "العنوان",
+  "delete": "حذف",
+  "NoSuppliersFound": "لا يوجد موردين",
+  "Deleted": "تم الحذف",
+  "SomethingWentWrong": "حدث خطأ ما",
+    "Supplier added": "تم اضافة الموررد",
+  "Name required": "الأسم مطلوب",
+  "createdAt": "تاريخ التسجيل",
+
+
+
+
+    "searchSuppliers": "البحث عن مورردين",
+
+  "searchProducts": "بحث المنتجات",
+
+
+
+  
+    "settings.title": "الإعدادات",
+    "settings.businessName": "اسم النشاط",
+    "settings.businessNamePlaceholder": "أدخل اسم النشاط",
+    "settings.businessLogo": "شعار النشاط",
+    "settings.logoPlaceholder": "أدخل شعار النشاط",
+    "settings.theme": "المظهر",
+    "settings.light": "فاتح",
+    "settings.dark": "داكن",
+    "settings.chooseTheme": "اختر المظهر",
+    "settings.language": "اللغة",
+    "settings.selectLanguage": "اختر اللغة",
+    "settings.chooseLanguage": "اختر لغتك",
+    "settings.resetDatabase": "إعادة ضبط قاعدة البيانات",
+    "settings.save": "حفظ الإعدادات",
+    "settings.success.upload": "تم رفع الشعار بنجاح!",
+    "settings.success.save": "تم حفظ الإعدادات بنجاح!",
+    "settings.errors.load": "فشل تحميل الإعدادات",
+    "settings.errors.upload": "فشل رفع الصورة",
+    "settings.errors.save": "فشل حفظ الإعدادات",
+     "welcomeBack": "مرحباً بعودتك",
+    "sidebarSettingsPage": "الإعدادات",
+
+  "productUpdated": "تم تحديث المنتج",
+  "productDeleted": "تم حذف المنتج",
+  "Logouploadedsuccessfully": "تم رفع الشعار بنجاح!",
+  "InvalidbookingID": "معرّف الحجز غير صالح",
+  "Updatefailed": "فشل التحديث",
+  "Failedtoloadproducts": "فشل في تحميل المنتجات",
+  "Failedtodeleteproduct": "فشل في حذف المنتج",
+  "Somethingwentwrong": "حدث خطأ ما",
+  "Imageuploadfailed": "فشل في رفع الصورة",
+  "dashboardStock": "المخزون",
+  "dashboardMinimum": "الحد الأدنى",
+
+  
+  "subscribeNow": "اشترك الآن وابدأ رحلتك!",
+  "fullAccessDescription": "الوصول الكامل لكل ميزات النظام وإدارة أعمالك بسهولة. اشتراك مدى الحياة مرة واحدة.",
+  "orderSummary": "ملخص الطلب",
+  "lifetimeSubscription": "اشتراك مدى الحياة",
+  "total": "المجموع",
+  "makePayment": "ادفع الآن",
+  "oneTimePaymentDescription": "اشتراك مرة واحدة لتفعيل كل المميزات بشكل دائم.",
+  "processing": "جارٍ المعالجة...",
+  "payNow": "ادفع وابدأ الآن",
+  "securePaymentBy": "الدفع مؤمن بالكامل بواسطة KeepSeller & Paymob",
+  "afterPaymentActivated": "بعد الدفع، سيتم تفعيل اشتراكك مباشرة وفتح لوحة التحكم.",
+  "readyToStart": "جاهز للبدء؟",
+  "emailNotFound": "❌ البريد الإلكتروني غير موجود",
+  "paymentCreationError": "حدث خطأ أثناء إنشاء الدفع",
+  "paymentError": "فشل الدفع. حاول مرة أخرى.",
+
+
+
+
+
+
+
+
+
+
+
+
+  "makePayment": "قم بالدفع",
+  "oneTimePaymentDescription": "اختر خطة الاشتراك التي تناسب احتياجات عملك. ادفع بأمان وابدأ في استخدام نظام الإدارة على الفور.",
+  
+  "monthlySubscription": "شهري",
+  "yearlySubscription": "سنوي",
+  "lifetimeSubscription": "مدى الحياة",
+  
+  "monthlyDesc": "يمكن الإلغاء في أي وقت",
+  "yearlyDesc": "أفضل للشركات النامية",
+  "lifetimeDesc": "ادفع مرة واحدة، استخدمها مدى الحياة",
+  
+  "mostPopular": "الأكثر شيوعًا",
+  "bestValue": "أفضل قيمة",
+  
+  "payNow": "ادفع الآن",
+  "securePaymentBy": "دفع آمن • وصول فوري",
+  
+  "pleaseSignIn": "يرجى تسجيل الدخول أولاً!",
+  "paymentCreationError": "فشل في إنشاء الدفع",
+  "paymentError": "فشل الدفع",
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Logout": "تسجيل خروج",
+
+
+
+
+    "paymentFailedTitle": "فشل الدفع",
+  "paymentFailedDesc": "لم يتم إتمام عملية الدفع بنجاح. يمكنك المحاولة مرة أخرى أو التواصل مع الدعم إذا استمرت المشكلة.",
+  "tryAgain": "حاول مرة أخرى",
+  "contactSupport": "تواصل مع الدعم",
+
+
+
+  "paymentSuccessTitle": "تم الدفع بنجاح",
+  "paymentSuccessDesc": "تم إتمام عملية الدفع بنجاح! شكرًا لاختيارك خدمتنا.",
+  "goToDashboard": "اذهب إلى لوحة التحكم",
+
+  "ReceiptHistory": "سجل الفواتير",
+
+
+  "receiptsHistory": "سجل الفواتير",
+  "searchReceipts": "ابحث في الفواتير...",
+  "receiptId": "رقم الفاتورة",
+  "receiptDate": "تاريخ الفاتورة",
+  "total": "الإجمالي",
+  "actions": "الإجراءات",
+  "noReceipts": "لا توجد فواتير.",
+
+  "print": "طباعة",
+  "pdf": "PDF",
+  "excel": "إكسل",
+  "csv": "CSV",
+
+  "product": "المنتج",
+  "quantity": "الكمية",
+  "price": "السعر",
+  "date": "التاريخ",
+  "outlet": "الفرع",
+
+  "saleReceipt": "فاتورة بيع",
+  "thankYou": "شكراً لشرائك!",
+
+  "new": "جديد",
+
+
+
+
+
+  
+  "subscription.heading": "اختر خطتك",
+  "subscription.description": "خطط مرنة لكل الأعمال. ابدأ بالخطة التي تناسب احتياجاتك.",
+  "subscription.monthly": "شهري",
+  "subscription.yearly": "سنوي",
+  "subscription.lifetime": "مدى الحياة",
+  "subscription.perMonth": "شهريًا",
+  "subscription.perYear": "سنويًا",
+  "subscription.oneTime": "دفعة واحدة",
+  "subscription.features.feature1": "وصول كامل لنظام نقاط البيع",
+  "subscription.features.feature2": "إدارة مخزون ذكية",
+  "subscription.features.feature3": "تحليلات",
+  "subscription.features.feature4": "دعم ذو أولوية",
+  "subscription.features.feature5": "جميع التحديثات المستقبلية",
+  "subscription.subscribe": "اشترك الآن",
+  "pleaseSignIn": "يرجى تسجيل الدخول أولاً!",
+  "paymentCreationError": "فشل في إنشاء عملية الدفع",
+  "paymentError": "حدث خطأ في الدفع، حاول مرة أخرى.",
+  "processing": "جاري المعالجة...",
+
+
+
+  "aboutMe": "خريج محاسبة، تعلم الكثير عن علوم الحاسوب والعديد من لغات البرمجة، وماهر في الإدارة والمحاسبة والرياضيات. يقوم بإنشاء مواقع وبرامج ويب باستخدام Next.js ويمكنه إنشاء برامج محاسبية إدارية لإدارة الشركات والمشاريع باستخدام Node.js و Next.js. بارع في استخدام العديد من برامج الحاسوب مثل برامج التصميم. عمل كمصمم جرافيك في طفولته وماهر في إدارة الحاسوب، ونظامي Windows و Linux، وتعلم الشبكات مثل CCNA وأكثر.",
+  
+  "myName": "دافيد عاطف زكي عريان",
+  
+  "experience": "الخبرة",
+  "education": "التعليم",
+  "contactMe": "تواصل معي",
+  "contactDescription": "لا تتردد في التواصل للمشاريع الحرة أو فرص العمل بدوام كامل.",
+  "emailMe": "راسلني بالبريد الإلكتروني",
+
+  "job1.role": "مطور Full-Stack",
+  "job1.company": "Upwork / عملاء متنوعون",
+  "job1.period": "2017 - حتى الآن",
+  "job1.desc": "بناء تطبيقات ويب قابلة للتوسع باستخدام Next.js و React و TailwindCSS و Prisma و PostgreSQL.",
+
+  "job2.role": "خبير تطوير ووردبريس",
+  "job2.company": "Upwork",
+  "job2.period": "2017 - 2023",
+  "job2.desc": "بناء مواقع وقوالب قابلة للتوسع باستخدام PHP و Bootstrap و JQuery و MySQL.",
+
+  "job3.role": "أمن سيبراني ومسؤول شبكات",
+  "job3.company": "مركز Tito",
+  "job3.period": "2013 - 2016",
+  "job3.desc": "إدارة ومراقبة بنية الشبكة بما في ذلك الموجهات والمفاتيح والجدران النارية.",
+
+  "edu1.degree": "بكالوريوس تجارة - قسم المحاسبة",
+  "edu1.school": "جامعة التجارة",
+  "edu1.period": "2014 - 2018",
+
+
+    "dashboard": "لوحة التحكم",
+    "subscribe": "اشترك",
+
+
+
+
+  "choosePlan": "اختر خطتك",
+  "planDescription": "اختر الخطة المناسبة لاحتياجات عملك.",
+
+  "monthly": "شهري",
+  "yearly": "سنوي",
+  "lifetime": "مدى الحياة",
+
+  "monthlyDesc": "ادفع شهريًا واستمتع بكامل المميزات.",
+  "yearlyDesc": "وفر أكثر مع الاشتراك السنوي.",
+  "lifetimeDesc": "ادفع مرة واحدة واحصل على وصول دائم.",
+
+  "payNow": "ادفع الآن",
+  "processing": "جارٍ المعالجة...",
+  "loginRequired": "يجب تسجيل الدخول أولاً",
+  "paymentFailed": "فشل الدفع، حاول مرة أخرى",
+
+  "completePayment": "إتمام الدفع",
+  "paymentDesc": "أنت على بعد خطوة واحدة من تفعيل جميع المميزات. الدفع آمن وفوري.",
+  "loadingPayment": "جارٍ تحميل صفحة الدفع...",
+  "iframeError": "فشل تحميل صفحة الدفع",
+
+  "secure": "دفع آمن",
+
+
+
+ 
+  "creditSales": "المبيعات الآجلة",
+  "addCustomer": "إضافة عميل",
+  "name": "الاسم",
+  "phone": "رقم الهاتف",
+  "email": "البريد الإلكتروني",
+  "address": "العنوان",
+  "add": "إضافة",
+  "selectCustomer": "اختر عميل",
+  "select": "اختيار",
+  "noCustomerFound": "لا يوجد عملاء",
+  "products": "المنتجات",
+  "searchProduct": "ابحث عن منتج...",
+  "wholesale": "سعر الجملة",
+  "sellingPrice": "سعر البيع",
+  "quantityInStock": "الكمية في المخزون",
+  "noPurchases": "لا توجد مشتريات",
+  "minimumAlertLevelNum": "حد التنبيه الأدنى",
+  "profit": "الربح",
+  "code": "الكود",
+  "sale.cart": "السلة",
+  "sale.emptyCart": "السلة فارغة",
+  "sale.subtotal": "المجموع الفرعي",
+  "sale.searchOutlet": "ابحث عن فرع...",
+  "sale.total": "الإجمالي",
+  "sale.completeSale": "إتمام البيع",
+  "available": "المتاح",
+  "notEnoughStock": "لا يوجد مخزون كافي",
+  "customer": "العميل",
+  "total": "الإجمالي",
+  "status": "الحالة",
+  "date": "التاريخ",
+  "actions": "الإجراءات",
+  "pending": "قيد الانتظار",
+  "paid": "مدفوع",
+  "pay": "دفع",
+  "print": "طباعة",
+  "No data": "لا توجد بيانات",
+  "outlet": "الفرع",
+  "product": "المنتج",
+  "quantity": "الكمية",
+  "price": "السعر",
+  "thankYou": "شكراً لك!",
+  "saleReceipt": "إيصال البيع",
+  "creditSaleInvoice": "فاتورة بيع آجل",
+  "noCustomer": "بدون عميل",
+  "qty": "الكمية",
+  "nameRequired": "الاسم مطلوب",
+  "customerAdded": "تم إضافة العميل",
+  "removedFromCart": "تم الحذف من السلة",
+  "addedToCart": "تمت الإضافة إلى السلة",
+  "noProductsInStock": "لا توجد منتجات في المخزون",
+  "noProductsInCart": "لا توجد منتجات في السلة",
+  "creditSaleAdded": "تم إنشاء البيع الآجل",
+  "selectCustomer": "من فضلك اختر عميل",
+  "toast.productFound": "تم العثور على المنتج",
+  "toast.productNotFound": "لم يتم العثور على المنتج",
+  "dashboard.error": "حدث خطأ ما",
+
+
+
+
+  "creditSales": "المبيعات الآجلة",
+  "addCustomer": "إضافة عميل",
+  "name": "الاسم",
+  "phone": "الهاتف",
+  "email": "البريد الإلكتروني",
+  "address": "العنوان",
+  "add": "إضافة",
+  "selectCustomer": "اختر العميل",
+  "select": "اختيار",
+  "noCustomerFound": "لا يوجد عملاء",
+  "products": "المنتجات",
+  "searchProduct": "ابحث عن منتج...",
+  "wholesale": "سعر الجملة",
+  "sellingPrice": "سعر البيع",
+  "quantityInStock": "الكمية في المخزن",
+  "noPurchases": "لا توجد مشتريات",
+  "minimumAlertLevelNum": "الحد الأدنى للتنبيه",
+  "profit": "الربح",
+  "code": "الكود",
+  "sale.cart": "السلة",
+  "sale.emptyCart": "السلة فارغة",
+  "sale.subtotal": "الإجمالي الفرعي",
+  "sale.searchOutlet": "ابحث عن الفرع...",
+  "sale.total": "الإجمالي",
+  "sale.completeSale": "إتمام البيع",
+  "available": "متاح",
+  "notEnoughStock": "لا توجد كمية كافية",
+  "customer": "العميل",
+  "total": "الإجمالي",
+  "status": "الحالة",
+  "date": "التاريخ",
+  "actions": "الإجراءات",
+  "pending": "معلق",
+  "paid": "مدفوع",
+  "pay": "دفع",
+  "print": "طباعة",
+  "No data": "لا توجد بيانات",
+  "outlet": "الفرع",
+  "product": "المنتج",
+  "quantity": "الكمية",
+  "price": "السعر",
+  "thankYou": "شكراً لك!",
+  "saleReceipt": "إيصال البيع",
+  "creditSaleInvoice": "فاتورة بيع آجلة",
+  "noCustomer": "لا يوجد عميل",
+  "qty": "الكمية",
+  "nameRequired": "الاسم مطلوب",
+  "customerAdded": "تم إضافة العميل",
+  "removedFromCart": "تم الحذف من السلة",
+  "addedToCart": "تمت الإضافة للسلة",
+  "noProductsInStock": "لا توجد منتجات في المخزن",
+  "noProductsInCart": "السلة فارغة",
+  "creditSaleAdded": "تم إضافة البيع الآجل بنجاح",
+  "selectCustomerError": "الرجاء اختيار عميل",
+  "SearchCustomers": "ابحث عن العملاء...",
+  "pdf": "PDF",
+  "excel": "Excel",
+  "csv": "CSV",
+  "creditCustomers": "عملاء الآجل",
+  "customers": "العملاء",
+  "dashboard.error": "حدث خطأ ما",
+  "toast.productFound": "تم العثور على المنتج",
+  "toast.productNotFound": "المنتج غير موجود",
+
+
+  "confirmPayment": "هل أنت متأكد؟",
+"confirmPaymentDesc": "سيتم تحديد هذه العملية كمدفوعة",
+"confirm": "تأكيد",
+"cancel": "إلغاء",
+
+
+
+  "creditTransactions": "المعاملات الآجلة",
+
+  "search": "بحث...",
+  "customer": "العميل",
+  "products": "المنتجات",
+  "total": "الإجمالي",
+  "status": "الحالة",
+  "date": "التاريخ",
+  "actions": "الإجراءات",
+  "pending": "قيد الانتظار",
+  "paid": "مدفوع",
+  "pdf": "PDF",
+  "excel": "Excel",
+  "csv": "CSV",
+  "print": "طباعة",
+  "No data": "لا توجد بيانات",
+  "unknown": "غير معروف",
+  "confirmPayment": "هل أنت متأكد؟",
+  "confirmPaymentDesc": "سيتم تعيين هذه العملية كمدفوعة",
+  "confirm": "تأكيد",
+  "cancel": "إلغاء",
+
+
+
+
+  "card": "بطاقة",
+  "wallet": "محفظة"
+
+
+
+
+
+
+
+
+
+
+
+}

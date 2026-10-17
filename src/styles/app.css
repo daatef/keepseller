@@ -1,0 +1,98 @@
+section.hero .hero-text-box {
+  text-align: right;
+}
+section.hero .hero-text-box h1 {
+  font-weight: bold;
+}
+
+.contact-page {
+  background-color: var(--web-primary-background-color);
+  color: var(--web-primary-text-color);
+  width: 100%;
+}
+.contact-page .go-back {
+  display: flex;
+  padding: 10px 0;
+  cursor: pointer;
+}
+.contact-page .go-back .go-back-icon {
+  width: 12px;
+}
+.contact-page .go-back span {
+  margin: 0 5px;
+}
+.contact-page .contact-container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--web-primary-background-color);
+  color: var(--primary-text-color);
+}
+.contact-page .contact-container .form-container {
+  flex: 50%;
+}
+.contact-page .contact-container .form-container .number a {
+  display: flex;
+}
+.contact-page .contact-container .form-container .number .phone {
+  height: 20px !important;
+  margin-right: 10px;
+}
+.contact-page .contact-container .form-container h1 {
+  font-size: 35px;
+  color: var(--web-primary-text-color);
+  font-weight: bold;
+}
+.contact-page .contact-container .form-container input, .contact-page .contact-container .form-container textarea {
+  color: var(--web-third-text-color);
+  background-color: var(--web-third-background-color);
+  border: none;
+  outline: none;
+  box-shadow: none;
+  padding: 10px 20px;
+  transition: all ease-in-out 0.5s;
+}
+.contact-page .contact-container .form-container input:focus, .contact-page .contact-container .form-container textarea:focus {
+  border: none;
+  outline: none;
+  background-color: var(--web-background-text-color);
+  color: var(--web-third-text-color);
+}
+.contact-page .contact-container .form-container .btn {
+  padding: 15px 0;
+  background-color: var(--web-third-background-color);
+  color: var(--web-third-text-color);
+  border: none;
+  letter-spacing: 0;
+}
+.contact-page .contact-container .image-container {
+  flex: 50%;
+  background-color: var(--web-primary-background-color);
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.contact-page .contact-container .image-container .img {
+  width: 100%;
+  margin: auto auto;
+}
+
+@media only screen and (max-width: 639px) {
+  .contact-container {
+    flex-direction: column !important;
+    height: auto !important;
+  }
+  .contact-container .form-container {
+    flex: 100% !important;
+  }
+  .contact-container .image-container {
+    flex: 100% !important;
+  }
+}
+
+/*# sourceMappingURL=app.css.map */

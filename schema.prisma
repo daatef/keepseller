@@ -1,0 +1,377 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+/////////////////////////////////////////
+// Core / Independent Models
+/////////////////////////////////////////
+
+model User {
+  id                 String    @id @default(cuid())
+  name               String?
+  email              String?   @unique
+  emailVerified      DateTime?
+  image              String?
+  isSubscribed       Boolean   @default(false)
+  plan               String? // "monthly" | "yearly" | "lifetime"
+  subscriptionStart  DateTime?
+  subscriptionEnd    DateTime?
+  subscriptionStatus String    @default("inactive") // active | expired
+
+  businessName    String?
+  mobileNumber    String?
+  about           String?
+  businessAddress String?
+  loginCount      Int      @default(0)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  payments      Payment[]
+  accounts      Account[]
+  Authenticator Authenticator[]
+  sessions      Session[]
+}
+
+model Payment {
+  id       String  @id @default(cuid())
+  userId   String
+  amount   Float
+  plan     String
+  status   String // pending | paid | failed
+  paymobId String? // transaction id
+
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+}
+
+model Account {
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id])
+}
+
+model Authenticator {
+  id                   String  @id @default(cuid())
+  credentialID         String  @unique
+  userId               String
+  providerAccountId    String
+  credentialPublicKey  String
+  counter              Int
+  credentialDeviceType String
+  credentialBackedUp   Boolean
+  transports           String?
+  user                 User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model SubscriptionTicket {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  isUsed    Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+/////////////////////////////////////////
+// Messages
+/////////////////////////////////////////
+
+model Message {
+  id        String   @id @default(cuid())
+  title     String
+  content   String
+  userId    String? // null = broadcast
+  createdAt DateTime @default(now())
+}
+
+model MessageRead {
+  id        String   @id @default(cuid())
+  messageId String
+  userId    String
+  createdAt DateTime @default(now())
+
+  @@unique([messageId, userId])
+}
+
+/////////////////////////////////////////
+// Financial Models
+/////////////////////////////////////////
+
+model Pocket {
+  id          Int      @id @default(autoincrement())
+  moneyOnHand Decimal  @default(0.0)
+  updatedAt   DateTime @updatedAt
+
+  expenses Expense[]
+  incomes  Income[]
+  updates  PocketUpdate[]
+}
+
+model PocketUpdate {
+  id        Int      @id @default(autoincrement())
+  amount    Decimal
+  updatedAt DateTime @default(now())
+  pocketId  Int
+  pocket    Pocket   @relation(fields: [pocketId], references: [id], onDelete: Cascade)
+}
+
+model Expense {
+  id        Int      @id @default(autoincrement())
+  amount    Decimal
+  reason    String?
+  createdAt DateTime @default(now())
+  pocketId  Int
+  pocket    Pocket   @relation(fields: [pocketId], references: [id], onDelete: Cascade)
+}
+
+model Income {
+  id        Int      @id @default(autoincrement())
+  amount    Decimal
+  reason    String?
+  createdAt DateTime @default(now())
+  pocketId  Int
+  pocket    Pocket   @relation(fields: [pocketId], references: [id], onDelete: Cascade)
+}
+
+/////////////////////////////////////////
+// Core Business Models
+/////////////////////////////////////////
+
+model Supplier {
+  id        Int      @id @default(autoincrement())
+  name      String
+  phone     String?
+  email     String?
+  address   String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now())
+
+  purchases       Purchase[]
+  returnPurchases ReturnPurchase[]
+}
+
+model Products {
+  id                Int     @id @default(autoincrement())
+  name              String  @unique
+  code              String  @unique
+  wholesale_price   Float
+  selling_price     Float
+  quantity_in_stock Int
+  percentage_of_win Decimal
+  minimumAlertLevel Int
+  trackInventory    Boolean @default(true)
+  image             String?
+
+  purchases       Purchase[]
+  returnPurchases ReturnPurchase[]
+  sales           Sale[]
+  returnSales     ReturnSale[]
+
+  creditSaleItems CreditSaleItem[]
+}
+
+model Purchase {
+  id        Int      @id @default(autoincrement())
+  productId Int
+  quantity  Int
+  totalCost Decimal
+  createdAt DateTime @default(now())
+
+  supplierId Int?
+  supplier   Supplier? @relation(fields: [supplierId], references: [id])
+
+  product Products @relation(fields: [productId], references: [id])
+}
+
+model ReturnPurchase {
+  id           Int      @id @default(autoincrement())
+  productId    Int
+  supplierId   Int
+  quantity     Int
+  refundAmount Decimal
+  reason       String?
+  createdAt    DateTime @default(now())
+
+  product  Products @relation(fields: [productId], references: [id])
+  supplier Supplier @relation(fields: [supplierId], references: [id])
+}
+
+/////////////////////////////////////////
+// Outlet / Sales Models
+/////////////////////////////////////////
+
+model Outlet {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  location  String?
+  createdAt DateTime @default(now())
+
+  sales       Sale[]
+  receipts    Receipt[]
+  creditSales CreditSale[]
+}
+
+model Receipt {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  outletId  Int?
+  total     Float
+
+  outlet Outlet? @relation(fields: [outletId], references: [id])
+  sales  Sale[]
+}
+
+model Sale {
+  id            Int      @id @default(autoincrement())
+  productId     Int
+  quantity      Int
+  total_revenue Float
+  createdAt     DateTime @default(now())
+
+  receiptId Int?
+  receipt   Receipt? @relation(fields: [receiptId], references: [id])
+
+  outletId    Int?
+  outlet      Outlet?      @relation(fields: [outletId], references: [id])
+  product     Products     @relation(fields: [productId], references: [id])
+  returnSales ReturnSale[]
+}
+
+model ReturnSale {
+  id             Int      @id @default(autoincrement())
+  productId      Int
+  quantity       Int
+  refundAmount   Float
+  reason         String?
+  createdAt      DateTime @default(now())
+  originalSaleId Int?
+  originalSale   Sale?    @relation(fields: [originalSaleId], references: [id])
+  product        Products @relation(fields: [productId], references: [id])
+}
+
+/////////////////////////////////////////
+// Other Models
+/////////////////////////////////////////
+
+model Winning {
+  id                 Int      @id @default(autoincrement())
+  nameOfProduct      String
+  winQuantity        Decimal
+  quantityOfProducts Int
+  createdAt          DateTime @default(now())
+}
+
+model Booking {
+  id           Int      @id @default(autoincrement())
+  productName  String?
+  clientName   String?
+  mobileNumber Int
+  quantity     Int
+  status       String   @default("PENDING") @db.VarChar(20)
+  notes        String?
+  bookedAt     DateTime @default(now())
+}
+
+model Setting {
+  id              Int      @id @default(autoincrement())
+  businessName    String
+  businessLogoUrl String
+  theme           String   @default("dark")
+  language        String   @default("en")
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+/////////////////////////////////////////
+// Credit Sales of Customers
+/////////////////////////////////////////
+
+model Customer {
+  id        Int      @id @default(autoincrement())
+  name      String
+  phone     String?
+  email     String?
+  address   String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  creditSales CreditSale[]
+}
+
+model CreditSale {
+  id         Int  @id @default(autoincrement())
+  customerId Int
+  outletId   Int?
+
+  totalAmount Decimal @db.Decimal(10, 2)
+  paidAmount  Decimal @default(0) @db.Decimal(10, 2)
+  remaining   Decimal @db.Decimal(10, 2)
+  status      String  @default("pending")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  customer Customer @relation(fields: [customerId], references: [id], onDelete: Cascade)
+  outlet   Outlet?  @relation(fields: [outletId], references: [id], onDelete: SetNull)
+
+  items CreditSaleItem[]
+}
+
+model CreditSaleItem {
+  id           Int      @id @default(autoincrement())
+  creditSaleId Int
+  productId    Int
+  quantity     Int
+  price        Decimal  @db.Decimal(10, 2)
+  createdAt    DateTime @default(now())
+
+  creditSale CreditSale @relation(fields: [creditSaleId], references: [id], onDelete: Cascade)
+  product    Products   @relation(fields: [productId], references: [id], onDelete: Restrict)
+
+  @@index([creditSaleId])
+}
+
+/////////////////////////////////////////
+// Enums
+/////////////////////////////////////////
+
+enum Theme {
+  light
+  dark
+}
+
+enum Language {
+  en
+  ar
+}

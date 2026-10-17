@@ -1,0 +1,1188 @@
+{
+  "navcreate": "Create",
+
+  "herospantext": "Automate transactions, track inventory, and grow your business with ease.",
+    "heroheading": "Complete Management System for Sales & Purchases.",
+"herodescription": "Our powerful management system simplifies every step in sales and purchasing operations. From inventory management to customer sales and financial reports, everything is seamlessly organized within a single, easy-to-use platform. Whether you run a small shop, a café, or a growing enterprise, our solutions help you save time, reduce errors, and make smarter decisions backed by real-time data.",
+
+
+  "newFeature": "KeepSeller POS & Business Suite",
+
+  "getStarted": "Get Started",
+  "demo": "Live Demo",
+
+  "statsUsers": "Users",
+  "statsUptime": "Uptime",
+  "statsSupport": "Support",
+
+  "stat1": "+1K",
+  "stat2": "99%",
+  "stat3": "24/7",
+
+  "floatingRevenue": "+25% Revenue Growth",
+  "floatingInventory": "Smart Inventory Control",
+
+
+
+
+
+
+
+   "featuresTitle": "Key Features",
+"featuresSubtitle": "Powerful tools to manage your sales, track inventory, and grow your business — all in one smart system.",
+  "feature1Title": "Import & Manage Products",
+  "feature1Desc": "Easily import, update, and organize all your products with wholesale and retail prices.",
+
+  "feature2Title": "Sales Management",
+  "feature2Desc": "Sell products quickly, apply discounts, and print invoices on the spot.",
+
+  "feature3Title": "Return Handling",
+  "feature3Desc": "Return sold or purchased products and adjust stock accurately.",
+
+  "feature4Title": "Purchase Tracking",
+  "feature4Desc": "Record and manage your purchases from suppliers with full history.",
+
+  "feature5Title": "Real-Time Stock Tracking",
+  "feature5Desc": "View low-stock products and stay updated on inventory levels.",
+
+  "feature6Title": "Customer Booking",
+  "feature6Desc": "Book items for customers with due payment tracking.",
+
+  "feature7Title": "Outlet Management",
+  "feature7Desc": "Add and manage multiple store branches or sales outlets.",
+
+  "feature8Title": "Income & Expense Logging",
+  "feature8Desc": "Track all cash inflows and outflows for your business.",
+
+  "feature9Title": "Cash on Hand Control",
+  "feature9Desc": "Update and review money on hand with full history.",
+
+  "feature10Title": "Winnings & Profit Analysis",
+  "feature10Desc": "See detailed profit reports by date and product category.",
+
+  "feature11Title": "Full Transaction History",
+  "feature11Desc": "View and filter all past sales, purchases, and edits.",
+
+  "feature12Title": "Multi-language & RTL Support",
+  "feature12Desc": "Arabic, English, and RTL layout support included.",
+
+  "feature13Title": "Printable Invoices",
+  "feature13Desc": "Print invoices anytime for any transaction.",
+
+  
+
+  "feature14Title": "QR Code Support",
+"feature14Desc": "Easily generate and scan QR codes to simplify transactions, access, and sharing.",
+
+
+  "feature15Title": "Fast & Easy to Use",
+  "feature15Desc": "Simple, intuitive design built for daily business operations.",
+
+  "feature16Title": "Add Suppliers",
+"feature16Desc": "Easily manage and add new suppliers to keep your inventory well-stocked and organized.",
+
+
+
+  "feature17Title": "Secure & Reliable",
+  "feature17Desc": "Your data is protected with robust backend security.",
+
+
+  "quicksellbutton": "Quick Sell",
+
+
+  "historytitle": "Transaction History",
+  "historytabsales": "Sales",
+  "historytabpurchases": "Purchases",
+
+  "salestableheading": "Sales History",
+  "salestabledate": "Date",
+  "salestableproduct": "Product",
+  "salestableproductprice": "Product Price",
+  "salestablequantity": "Quantity",
+  "salestabletotalrevenue": "Total Revenue",
+  "salestableactions": "Actions",
+  "salestableprintbtn": "Print",
+  "salestableoutlet": "Outlet",
+  "salestablenooutlet": "No outlet",
+  "removeSale.confirm": "⚠ Are you sure you want to undo the last sale action? This action cannot be undone.",
+  "removeSale.loading": "Removing last action...",
+  "removeSale.success": "Last action removed.",
+  "removeSale.error": "Failed to remove action.",
+  "removeSale.generalError": "Something went wrong.",
+  "removeSale.button": "Undo Sale",
+  "removeSale.loadingBtn": "Removing...",
+  "printoutlet": "Outlet",
+
+"lowStockAlertChart": "Low Stock Alert Chart",
+
+
+
+
+
+    "sale.addedToCart": "Product added to cart",
+    "sale.removedFromCart": "Product removed from cart",
+    "sale.emptyCartError": "Cart is empty",
+
+  
+
+
+
+
+"ReturnCart": "Return items",
+
+
+
+
+
+
+
+
+  "purchasetableheading": "Purchase History",
+  "purchasetabledate": "Date",
+  "purchasetableproduct": "Product",
+  "purchasetableproducthostprice": "Purchase Product Price",
+  "purchasetablequantity": "Quantity",
+  "purchasetabletotalcost": "Total Cost",
+  "purchasetableempty": "No purchases found.",
+
+  "sidebarhistory": "History",
+  "searchitems": "Search Items",
+
+  "printreceipt": "Sale Receipt",
+  "printdate": "Date",
+  "printproduct": "Product",
+  "printitemprice": "Item Price",
+  "printquantity": "Quantity",
+  "printtotalrevenue": "Total Revenue",
+  "printthankyou": "Thank you!",
+
+  "sessionerror": "Error loading session",
+
+  "code": "Code",
+
+  "historytabreturnsales": "Return Sales",
+  "historytabreturnpurchases": "Return Purchases",
+
+  "returnsaletableheading": "Return Sales History",
+  "returnsaletabledate": "Date",
+  "returnsaletableproduct": "Product",
+  "returnsaletablequantity": "Quantity",
+  "returnsaletablerefund": "Refund Amount",
+  "returnsaletablereason": "Reason",
+
+  "returnpurchasetableheading": "Return Purchases History",
+  "returnpurchasetabledate": "Date",
+  "returnpurchasetableproduct": "Product",
+  "returnpurchasetablequantity": "Quantity",
+  "returnpurchasetabletotal": "Refund Amount",
+
+  "returnpurchasereason": "Reason",
+  "returnPurchase.autoCalculateRefund": "Auto-calculate refund from quantity × wholesale price",
+  
+
+  "_comment_sidebar_nav": "start App Sidebar Nav translations",
+  "navDashboard": "Dashboard",
+  "navImportProducts": "Import Products",
+  "navSellProduct": "Sell Product",
+  "navPurchaseProduct": "Purchase Product",
+  "navReturnSellProduct": "Return Sale",
+  "navReturnPurchaseProduct": "Return Purchase",
+  "navSearchProducts": "Search Products",
+  "navMoneyOnHand": "Money on Hand",
+  "navWinnings": "Winnings",
+  "navTransactionHistory": "Transaction History",
+  "navLowStock": "Low Stock",
+  "navDataLibrary": "Data Library",
+  "navReports": "Reports",
+  "navWordAssistant": "Word Assistant",
+  "navIncomeAndExpense":"Income & Expense",
+  "navBookingProduct": "Products Booking",
+  "navAddOutlets": "Add Outlet",
+  
+
+
+  "_comment_dashboard": "Dashboard page translations",
+  "dashboard.title": "Dashboard",
+  "dashboard.search": "Search",
+  "dashboard.error": "Error loading session.",
+  "dashboard.notSubscribed": "You are not subscribed.",
+  "dashboard.loading": "Loading...",
+
+
+
+
+  "_comment_sell_products": "start sell product page translation",
+  "sale.searchHeader": "Search Stored Products.",
+  "sale.searchPlaceholder": "Search products...",
+  "sale.noPurchases": "No purchases yet",
+  "sale.wholesale": "Wholesale",
+  "sale.sellingPrice": "Selling Price",
+  "sale.selling": "Selling Price",
+  "sale.quantityInStock": "Quantity in Stock",
+  "sale.stock": "Stock",
+  "sale.profit": "Profit",
+  "sale.searchOutlet": "Search outlets...",
+  "sale.quantityPlaceholder": "Enter quantity to sell",
+  "sale.sellProduct": "Sell Product",
+  "sale.pleaseSelectProduct": "Please select a product and quantity.",
+  "sale.saleReceipt": "Sale Receipt",
+  "sale.date": "Date",
+  "sale.product": "Product",
+  "sale.quantity": "Quantity",
+  "sale.unitPrice": "Unit Price",
+  "sale.total": "Total",
+  "sale.thankYou": "Thank you for your purchase!",
+  "sale.billPrintedSuccess": "Bill printed successfully",
+  "sale.saleRecordedSuccess": "Sale recorded successfully",
+  "sale.saleRecordFailed": "Failed to record sale",
+  "sale.genericError": "Something went wrong. Please try again.",
+  "sale.sellProducts": "Sell Products",
+  "sale.dashboard.error": "An error occurred while loading your dashboard.",
+  "sale.outlet": "Outlet",
+  "sale.noOutlet": "No outlet selected",
+  "sale.multiSellProducts": "Multi-Sell Products",
+  "sale.alreadyInCart": "This product is already in your cart",
+  "sale.emptyCart": "Your cart is empty",
+  "sale.cart": "Cart",
+  "sale.completeSale": "Complete Sale",
+  "sale.subtotal": "Subtotal",
+  "toast.productFound": "Product added from scan",
+  "toast.productNotFound": "Product not found",
+  "wholesale": "Wholesale",
+  "sellingPrice": "Selling Price",
+  "quantityInStock": "Quantity in stock",
+  "minimumAlertLevelNum": "Minimum Alert Level",
+  "profit": "Profit",
+  "sale.product": "Product",
+  "sale.qty": "Quantity",
+  "sale.price": "Price",
+  "sale.total": "Total",
+  "receiptTitle": "Receipt",
+
+
+
+
+  "_comment_search_products": "start sell product page translation",
+  "searchHeader": "Search Stored Products.",
+  "searchPlaceholder": "Search products...",
+  "noPurchases": "No purchases yet",
+
+
+  "_comment_section_cards": "Start translation for SectionCards component",
+  "sectionCards.totalRevenue": "Total Revenue",
+  "sectionCards.totalRevenueExtra": "Total winnings earned from all product sales.",
+  "sectionCards.totalSoldProducts": "Total Sold Products",
+  "sectionCards.totalSoldProductsExtra": "Total number of products sold to customers.",
+  "sectionCards.totalProductsInStore": "Products in Store",
+  "sectionCards.totalProductsInStoreExtra": "The number of products currently in inventory.",
+  "sectionCards.growthRate": "Growth Rate",
+  "sectionCards.growthRateExtra": "The growth based on sold vs available products.",
+  "sectionCards.moneyOnHand": "Money on Hand",
+  "sectionCards.moneyOnHandExtra": "Available cash on hand from sales and updates.",
+  "sectionCards.totalIncome": "Total added income",
+  "sectionCards.totalIncomeExtra": "Additional income added to the pocket.",
+  "sectionCards.totalExpenses": "Total Expenses",
+  "sectionCards.totalExpensesExtra": "Total expenses deducted from the pocket.",
+
+
+
+
+
+  "_comment_winnings_chart": "Translation for Winnings Chart component",
+  "winningsChart.chartLabel": "Winnings",
+  "winningsChart.desktopLabel": "Amount",
+  "winningsChart.mobileLabel": "Other",
+  "winningsChart.title": "Winnings Overview",
+  "winningsChart.description": "Revenue and products sold over time.",
+  "winningsChart.rangeFull": "Select time range to view performance",
+  "winningsChart.rangeShort": "Time range",
+  "winningsChart.last90Days": "Last 90 Days",
+  "winningsChart.last30Days": "Last 30 Days",
+  "winningsChart.last7Days": "Last 7 Days",
+  "winningsChart.revenueLabel": "Revenue",
+  "winningsChart.quantityLabel": "Quantity Sold",
+
+
+  "_comment_bar_chart": "Winnings bar chart per month",
+   "barChart.title": "Monthly Winnings",
+  "barChart.description": "Track your total winnings month by month.",
+  "barChart.label": "Total Winnings",
+  "barChart.trend": "Upward Trend",
+  "barChart.footer": "Positive growth in recent months.",
+
+
+
+  "_comment_reset": "Reset database button",
+  "reset.button": "Reset Database",
+  "reset.loadingButton": "Resetting...",
+  "reset.confirmMessage": "⚠️ This action will RESET the entire database and cannot be undone.\n\nTo confirm, type: RESET",
+  "reset.confirmFailed": "Confirmation failed. Database was not reset.",
+  "reset.loading": "Resetting database...",
+  "reset.success": "Database reset successfully!",
+  "reset.failed": "Failed to reset database.",
+
+
+
+  "initializeStorage": "Initialize Your Storage Products Informations.",
+  "importNewProduct": "Import New Product",
+  "productNamePlaceholder": "Product Name",
+  "productImagePlaceholder": "Product Image",
+  "wholesalePlaceholder": "Wholesale Price",
+  "percentagePlaceholder": "Percentage of Win",
+  "sellingPricePlaceholder": "Selling Price",
+  "ProductsQuantityPlaceholder": "Quantity",
+  "importProduct": "Import Product",
+  "ProductsWholesale": "Wholesale",
+  "ProductsQuantity": "Quantity",
+  "ProductsSellingPrice": "Selling Price",
+  "ProductsNoPurchases": "No purchases yet",
+  "ProductsProfit": "Profit",
+  "toast.fillRequiredFields": "Please fill all required fields correctly.",
+  "toast.productSaved": "Product saved successfully!",
+  "toast.somethingWrong": "Something went wrong.",
+  "toast.sessionError": "Error loading session",
+  "minimumAlertPlaceholder": "Enter minimum alert level",
+  "trackInventory": "Track Inventory",
+  "toast.duplicateCode":"This product code is already in use.",
+  "productCodePlaceholder": "Product Code (Barcode or SKU)",
+
+
+  "_comment_pocket_page": "Pocket Page",
+  "pocket.title": "Your Pocket | Money on hand.",
+  "pocket.moneyOnHand": "Money On Hand",
+  "pocket.updateMoneyLabel": "Update Money",
+  "pocket.moneyPlaceholder": "Enter new amount",
+  "pocket.updateButton": "Update",
+  "toast.enterValidNumber": "Please enter a valid number",
+  "toast.moneyUpdated": "Money updated successfully",
+  "toast.failedUpdate": "Failed to update money",
+  "toast.sessionErrorPocket": "Error loading session",
+
+  "pocket.historyTitle": "Money Update History",
+
+  "pocket.historyDate": "Date",
+  "pocket.historyAmount": "Amount",
+
+
+  "_comment_purchase_page": "Purchase Product Page",
+  "purchase.title": "Purchase Products and Import in your Store.",
+  "purchase.pageTitle": "Purchase Product",
+  "purchase.productLabel": "Product",
+  "purchase.selectProduct": "Select a product",
+  "purchase.searchProduct": "Search product...",
+  "purchase.noProducts": "No products available",
+  "purchase.stock": "Stock",
+  "purchase.quantityLabel": "Quantity",
+  "purchase.quantityPlaceholder": "Enter quantity",
+  "purchase.submitButton": "Submit Purchase",
+  "toast.selectProductQuantity": "Please select a product and quantity",
+  "toast.purchaseSuccess": "Purchase recorded successfully",
+  "toast.purchaseFailed": "Failed to record purchase",
+  "toast.sessionErrorPurchase": "Error loading session",
+
+
+
+  "_comment_undo_button": "Undo Purchase Button",
+  "undo.button": "Undo Purchase",
+  "undo.removingButton": "Removing...",
+  "undo.removing": "Removing last purchase...",
+  "undo.success": "Last purchase removed.",
+  "undo.failure": "Failed to remove purchase.",
+  "undo.error": "Something went wrong.",
+  "undo.confirmMessage": "⚠ Are you sure you want to undo the last purchase? This action cannot be undone.",
+
+
+
+
+
+  "_comment_winning_page": "Winnings Page",
+  "winning.title": "Profit Result Records.",
+  "winning.heading": "Winning Records",
+  "winning.totalWinnings": "Total Winnings",
+  "winning.totalSold": "Total Products Sold",
+  "winningfilterstartDate": "Start Date",
+  "winningfilterendDate": "End Date",
+  "winningfilterbutton": "Filter",
+  "winning.table.date": "Date",
+  "winning.table.winnings": "Winnings",
+  "winning.table.product": "Product",
+  "winning.table.quantity": "Quantity Sold",
+  "winning.table.noData": "No winnings found.",
+  "toast.sessionErrorWinning": "Error loading session",
+
+
+
+  "footerDescription": "All-in-One Platform for Sales and Procurement. Empowering companies to operate faster, smarter, and more efficiently.",
+  "footerCopyright": "Copyright © KeepSeller. 2025. All rights reserved.",
+  "footerDeveloper": "Developed by David Atef Z. Erian.",
+  "footerSocial": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "github": "GitHub",
+    "dribbble": "Dribbble"
+  },
+"footerColumns.company": "Company",
+"footerLinks.about": "About Us",
+"footerLinks.careers": "Careers",
+"footerLinks.about.developer": "About the Developer",
+
+
+"footerColumns.products": "Products",
+"footerLinks.pricing": "Pricing",
+"footerLinks.features": "Features",
+"footerLinks.checkout": "Checkout",
+
+
+"footerColumns.support": "Support",
+"footerLinks.terms": "Terms & Conditions",
+"footerLinks.privacy": "Privacy Policy",
+"footerLinks.refund": "Refund Policy",
+  
+
+
+
+  "contactHeaderText": "Contact",
+  "orderHeaderText": "Register your Copy",
+
+  "home": "Home",
+  "about": "About",
+  "careerHeader": "Careers",
+  "pricing": "Pricing",
+  "order": "Order Now",
+  "contactHeaderText": "Contact",
+
+
+
+  "dashboard": "Go to Dashboard",
+  "signOut": "Sign Out",
+  "signIn": "Sign In",
+  "signUpHeader": "Signup",
+
+  "signinReturn": "Back to home page",
+
+
+
+   "contactTitle": "Get Help When You Need It.",
+  "contactReturn": "Return to Previous Page.",
+  "contactMobile": "Mobile",
+  "contactAddress": "Address: New Beni-Suef East of Nile, Beni Suef, Egypt",
+  "contactMail": "Email",
+  "contactPlaceholderName": "Enter your name",
+  "contactPlaceholderEmail": "Enter your email",
+  "contactPlaceholderPhone": "Your phone or mobile number",
+  "contactPlaceholderMessage": "Your message",
+  "contactSubmit": "Send",
+  "toastInvalidName": "Please enter a valid name.",
+  "toastInvalidEmail": "Please enter a valid email.",
+  "toastInvalidPhone": "Phone must be 8-15 digits.",
+  "toastInvalidMessage": "Message must be at least 10 characters.",
+  "toastSuccess": "Message sent successfully!",
+  "toastError": "Something went wrong.",
+  "toastErrorNetwork": "Error sending message.",
+
+
+
+
+
+
+
+  "notFoundTitle": "404 - Page Not Found",
+  "notFoundDescription": "The page you are looking for does not exist or has been moved.",
+  "goBackHome": "Go back home",
+
+
+
+
+  "admin.warning": "Administrator Access - Be Careful",
+
+
+
+
+  "lowStockProducts": "Low Stock Products",
+  "lowStock": "Low Stock",
+  "lowStockProductsWholesale": "Wholesale Price",
+  "lowStockProductsSellingPrice": "Selling Price",
+  "lowStockProductsQuantity": "Quantity in Stock",
+  "lowStockminimumAlert": "Minimum Alert Level",
+  "status": "Status",
+  "inStock": "In Stock",
+  "noProducts": "No products available.",
+  "sale.noProductsAvailable": "No products available. Going back...",
+  "returnSale": "Return Sale",
+  "returnPurchase": "Return Purchase",
+  "return.pageTitle": "Return a Purchased Product",
+  "returnPurchase.productLabel": "Select Product",
+  "returnPurchase.selectProduct": "Select a product",
+  "returnPurchase.searchProduct": "Search product...",
+  "returnPurchase.noProducts": "No products found",
+  "returnPurchase.stock": "Stock",
+  "returnPurchase.quantityLabel": "Quantity",
+  "returnPurchase.quantityPlaceholder": "Enter quantity",
+  "refundAmount": "Refund Amount",
+  "reason": "Reason",
+  "submitReturn": "Submit Return",
+  "returnToast.fillRequiredFields": "Please fill in all required fields",
+  "returnRecordedSuccess": "Return recorded successfully",
+  "returnFailed": "Failed to record return",
+  "returnDashboard.error": "Something went wrong. Please try again.",
+  "form.refund": "Refund",
+  "form.autoCalculate": "Auto-calculate refund",
+  "form.placeholders.refund": "Enter refund amount",
+  "incomeExpense.title": "Income & Expense",
+  "incomeExpense.income": "Income",
+  "incomeExpense.expense": "Expense",
+  "incomeExpense.addIncome": "Add Income",
+  "incomeExpense.addExpense": "Add Expense",
+  "incomeExpense.incomeHistory": "Income History",
+  "incomeExpense.expenseHistory": "Expense History",
+  "form.amount": "Amount",
+  "form.reason": "Reason",
+  "form.submit": "Submit",
+  "form.date": "Date",
+  "incomeExpensetoast.enterValidNumber": "Please enter a valid number.",
+  "incomeExpensetoast.entryAdded": "Entry added successfully.",
+  "incomeExpensetoast.failedUpdate": "Failed to update. Try again later.",
+  "incomeExpensedashboard.error": "Something went wrong. Please try again.",
+
+  "form.placeholders.amount": "Enter amount",
+  "form.placeholders.reason": "Enter reason",
+
+
+  "booking.title": "Booking",
+  "booking.pageTitle": "Book a Product",
+  "booking.productName": "Product Name",
+  "booking.clientName": "Client Name",
+  "booking.mobileNumber": "Mobile Number",
+  "booking.quantity": "Quantity",
+  "booking.notes": "Notes",
+  "booking.submitButton": "Submit Booking",
+  "booking.productPlaceholder": "Enter product name",
+  "booking.clientPlaceholder": "Enter client name",
+  "booking.mobilePlaceholder": "Enter mobile number",
+  "booking.optionalNotes": "Optional notes",
+  "booking.tableTitle": "Bookings",
+  "booking.status": "Status",
+  "booking.actions": "Booked At",
+  "toast.fillAllFields": "Please fill in all required fields.",
+  "toast.invalidNumber": "Mobile number and quantity must be valid numbers.",
+  "toast.bookingSuccess": "Booking submitted successfully!",
+  "toast.bookingFailed": "Failed to submit booking.",
+  "toast.statusUpdated": "Status updated successfully.",
+  "toast.updateFailed": "Failed to update status.",
+  "bookingDashboard.error": "Something went wrong while loading.",
+
+
+  "booking.placeholders.productName": "Enter product name",
+  "booking.placeholders.clientName": "Enter client name",
+  "booking.placeholders.mobileNumber": "Enter mobile number",
+  "booking.placeholders.quantity": "Enter quantity",
+  "booking.placeholders.notes": "Enter any notes",
+
+
+  "lifelong subscription": "lifelong subscription",
+  "orderSummary": "Order Summary",
+  "makePayment": "Make Payment",
+  "payNow": "Pay Now",
+  "processing": "Processing...",
+  "total": "Total",
+  "poweredBy": "Secure payment powered by KeepSeller & Paymob",
+
+
+
+
+
+  "outlet.title": "Add Outlet",
+  "outlet.pageTitle": "Create New Outlet",
+  "outlet.nameLabel": "Outlet Name",
+  "outlet.namePlaceholder": "Enter outlet name",
+  "outlet.locationLabel": "Location (optional)",
+  "outlet.locationPlaceholder": "Enter location",
+  "outlet.submitButton": "Add Outlet",
+  "outlet.outletListTitle": "All Outlets",
+  "toast.outletNameRequired": "Outlet name is required",
+  "toast.outletCreated": "Outlet created successfully",
+  "toast.outletFailed": "Failed to create outlet",
+  "outletForm.date": "Date",
+  "historytableempty": "No data available",
+  "outletDashboard.error": "An error occurred while loading data",
+
+
+  "select.pending": "Pending",
+  "select.confirmed": "Confirmed",
+  "select.cancelled": "Cancelled",
+  "select.completed": "Completed",
+
+
+  "footerLinks.about": "About Us",
+  "footerLinks.terms": "Terms and Conditions",
+  "footerLinks.privacy": "Privacy Policy",
+  "footerLinks.refund": "Refund Policy",
+  "footerLinks.shipping": "Shipping Policy",
+  "footerLinks.pricing": "Pricing Policy",
+  "footerLinks.checkout": "Checkout Instructions",
+
+
+  "GoToMainPage": "Go to Home Page",
+
+
+  "about.title": "About Us",
+  "about.who": "We are a modern online sales and purchase management system designed to help businesses streamline operations, track inventory, and manage finances with ease.",
+  "about.mission": "Our mission is to empower businesses of all sizes with intuitive, powerful, and affordable tools to manage their sales and purchases online.",
+  "about.vision": "Our vision is to become the leading platform in the region for digital sales and inventory management, enabling every business to go digital.",
+
+  "checkout.title": "Checkout Instructions",
+  "checkout.steps": "Please follow the steps below to complete your purchase.",
+  "checkout.payment": "Make sure to complete the payment using your preferred method.",
+  "checkout.support": "If you encounter any issues, please contact our support team at support@KeepSeller.com or +201107130468.",
+
+ "pricing.title": "Pricing Policy",
+  "pricing.currency": "All prices are shown in your local currency when possible.",
+  "pricing.taxes": "The program has a one-time, lifetime price that includes all taxes and fees.",
+  "pricing.changes": "We reserve the right to change prices in the future, but customers who purchased at a previous price will not be affected.",
+
+  "privacy.title": "Privacy Policy",
+  "privacy.collection": "We collect personal information that you provide directly to us, such as when you create an account or contact support.",
+  "privacy.use": "We use your information to provide, improve, and personalize our services, as well as to communicate with you.",
+  "privacy.security": "We implement appropriate security measures to protect your personal data from unauthorized access.",
+
+  "refund.title": "Refund Policy",
+  "refund.eligibility": "Refunds are available within 14 days of purchase, provided the product or service was not used or consumed.",
+  "refund.process": "To request a refund, please contact our support team with your order details. We will review your request and process it within 5-7 business days.",
+  "refund.contact": "If you have any questions about our refund policy, feel free to contact us anytime at support@KeepSeller.com or +201107130468.",
+
+  "shipping.title": "Shipping Policy",
+  "shipping.methods": "We offer multiple shipping methods including standard and express delivery options. You can choose your preferred method at checkout.",
+  "shipping.costs": "Shipping costs are calculated based on your location and chosen delivery method. Exact costs will be shown before you confirm your order.",
+  "shipping.time": "Orders are processed within 1-2 business days. Delivery times may vary depending on your location but usually range between 3-7 business days.",
+
+  "terms.title": "Terms and Conditions",
+  "terms.intro": "By accessing this website, you agree to be bound by these terms and conditions of use. If you do not agree with any part of the terms, you may not use our service.",
+  "terms.usage": "All content, software, and materials available in the system are our intellectual property or licensed to us. You may not copy, distribute, or modify any part of the system without prior written permission.",
+  "terms.responsibility": "We are not responsible for any damages arising from the use or inability to use the materials on this website.",
+  "terms.changes": "We reserve the right to revise the terms of service at any time without notice. Please check this page regularly to stay updated.",
+
+  "BarcodeGeneratorTitle": "Generate Product Barcodes",
+  "BarcodeScannerTitle": "Scan Product Barcode",
+  "BarcodeNotFound": "Product not found.",
+  "BarcodeScanError": "Error scanning barcode.",
+
+  
+  "orderTitle": "Order Your Copy Now",
+  "orderPlaceholderName": "Full Name",
+  "orderPlaceholderEmail": "Email Address",
+  "orderPlaceholderPhone": "Phone Number",
+  "orderPlaceholderAddress": "Street Address",
+  "orderPlaceholderCity": "City",
+  "orderPlaceholderCountry": "Country",
+  "orderPlaceholderNotes": "Additional Notes",
+  "orderSubmit": "Place Order",
+  "orderReturnToMain": "Back to Main Page",
+  "orderCall": "Call Us",
+  "orderEmail": "Email Us",
+  "toastOrderSuccess": "Your order has been submitted successfully!",
+  "toastOrderError": "Failed to submit your order.",
+  "toastFillRequired": "Please fill all required fields.",
+  "toastOrderErrorNetwork": "Network error, please try again later.",
+
+
+  "filterStartDate": "Start Date",
+  "filterEndDate": "End Date",
+
+  "aTrialAccount": "A trial account is available; you can test the system through it by clicking above. SignIn then enter these info;",
+
+
+
+ "signinReturn": "Back to Home",
+  "welcomeHeading": "Welcome to KeepSeller POS System",
+  "welcomeDescription": "Manage your sales, inventory, and reports seamlessly.",
+  "signInTitle": "Sign In to Your Account",
+  "signInGitHub": "Sign in with GitHub",
+  "tryDemo": "Try Demo",
+  "needHelp": "Need help? Contact",
+  "supportEmail": "support@KeepSeller.com",
+    "pricing-in-egyptian.title": "Registration Price in Egypt",
+  "pricing-in-egyptian.text": "Welcome to our page. The price is fixed at 2000 Egyptian pounds for each registration. The price includes completing the full registration process. The service starts after confirming the request. Communication is available through the website messages, phone, or WhatsApp. If you want to register, send us a message now and we will respond as soon as possible.",
+  "footerLinks.pricinginegyptian": "Pricing in Egyptian",
+
+  "about.address": "The company address is New Beni Suef City, Beni Suef, Egypt.",
+
+
+
+
+
+
+  "purchaseWholesaleprice": "Product Price",
+  "purchaseStock": "Current Stock",
+  "wholesale.price.purchase.total": "Total Price",
+  "selectSupplier": "Select Supplier",
+  "purchase.wholesaleprice": "Purchase Price per Unit",
+  "returnPurchase.refundQuantity": "Quantity to Return",
+  "returnPurchase.calculatedRefund": "Total Refund Amount",
+  "supplier": "Supplier",
+"navAddSupplier": "Add Supplier",
+
+
+
+
+ "manageSuppliers": "Manage Suppliers",
+  "addSupplier": "Add Supplier",
+  "suppliersList": "Suppliers List",
+  "name": "Name",
+  "phone": "Phone",
+  "email": "Email",
+  "address": "Address",
+  "delete": "Delete",
+  "NoSuppliersFound": "No suppliers found",
+  "Deleted": "Deleted",
+  "SomethingWentWrong": "Something went wrong",
+  "Supplier added": "Supplier added",
+  "Name required": "Name required",
+  "createdAt": "Record Date",
+
+
+
+
+  "searchSuppliers": "Search Suppliers",
+  "searchProducts": "Search Products",
+
+
+    "settings.title": "Settings",
+    "settings.businessName": "Business Name",
+    "settings.businessNamePlaceholder": "Enter Your Business Name",
+    "settings.businessLogo": "Business Logo",
+    "settings.logoPlaceholder": "Insert Your Business Logo",
+    "settings.theme": "Theme",
+    "settings.light": "Light",
+    "settings.dark": "Dark",
+    "settings.language": "Language",
+    "settings.chooseTheme": "Choose Theme",
+    "settings.selectLanguage": "Select Language",
+    "settings.chooseLanguage": "Choose Your Language",
+    "settings.resetDatabase": "Reset Database",
+    "settings.save": "Save Settings",
+    "settings.success.upload": "Logo uploaded successfully!",
+    "settings.success.save": "Settings saved successfully!",
+    "settings.errors.load": "Failed to load settings",
+    "settings.errors.upload": "Image upload failed",
+    "settings.errors.save": "Failed to save settings",
+    "welcomeBack": "Welcome Back",
+
+
+    "sidebarSettingsPage": "Settings",
+    "productUpdated": "Product Updated",
+    "productDeleted": "Product Deleted",
+    "Logouploadedsuccessfully": "Logo uploaded successfully!",
+    "InvalidbookingID": "Invalid booking ID",
+    "Updatefailed": "Update failed",
+    "Failedtoloadproducts": "Failed to load products",
+    "Failedtodeleteproduct": "Failed to delete product",
+    "Somethingwentwrong": "Something went wrong",
+    "Imageuploadfailed": "Image upload failed",
+    "dashboardStock": "stock",
+    "dashboardMinimum": "minimum",
+
+
+  "subscribeNow": "Subscribe Now & Start Your Journey!",
+  "fullAccessDescription": "Full access to all system features and manage your business easily. One-time lifetime subscription.",
+  "orderSummary": "Order Summary",
+  "lifetimeSubscription": "Lifetime Subscription",
+  "total": "Total",
+  "makePayment": "Make Payment",
+  "oneTimePaymentDescription": "One-time payment to activate all features permanently.",
+  "processing": "Processing...",
+  "payNow": "Pay Now",
+  "securePaymentBy": "Secure payment powered by KeepSeller & Paymob",
+  "afterPaymentActivated": "After payment, your subscription will be activated immediately and dashboard will be unlocked.",
+  "readyToStart": "Ready to start?",
+  "emailNotFound": "❌ Email not found",
+  "paymentCreationError": "Error creating payment",
+  "paymentError": "Payment failed. Please try again.",
+
+
+
+  "Logout": "Logout",
+
+  "paymentFailedTitle": "Payment Failed",
+  "paymentFailedDesc": "Your payment was not successful. Please try again or contact support if the problem continues.",
+  "tryAgain": "Try Again",
+  "contactSupport": "Contact Support",
+
+
+  "paymentSuccessTitle": "Payment Successful",
+  "paymentSuccessDesc": "Your payment has been completed successfully! Thank you for choosing our service.",
+  "goToDashboard": "Go to Dashboard",
+
+
+  "ReceiptHistory": "Receipts History",
+
+  "receiptsHistory": "Receipts History",
+  "searchReceipts": "Search receipts...",
+  "receiptId": "Receipt ID",
+  "receiptDate": "Receipt Date",
+  "total": "Total",
+  "actions": "Actions",
+  "noReceipts": "No receipts available.",
+
+  "print": "Print",
+  "pdf": "PDF",
+  "excel": "Excel",
+  "csv": "CSV",
+
+  "product": "Product",
+  "quantity": "Quantity",
+  "price": "Price",
+  "date": "Date",
+  "outlet": "Outlet",
+
+  "saleReceipt": "Sale Receipt",
+  "thankYou": "Thank you for your purchase!",
+
+  "new": "New",
+
+
+
+
+  "career.hero.title": "Build the Future With Us",
+  "career.hero.subtitle": "Join a creative team and be part of building an innovative, fast-growing company.",
+  "career.hero.cta": "Explore Opportunities",
+
+  "career.openPositions": "Open Positions",
+  "career.searchPlaceholder": "Search by role, department, or location",
+
+  "career.applyNow": "Apply Now",
+  "career.applyTitle": "Apply for this Position",
+
+  "career.job.type": "Full-time",
+  "career.job.remote": "Remote",
+  "career.job.location": "Location",
+
+  "career.cultureTitle": "Our Culture",
+  "career.culture.innovation": "Innovation",
+  "career.culture.innovationText": "We encourage bold ideas and creative thinking to push boundaries.",
+  "career.culture.growth": "Growth",
+  "career.culture.growthText": "We support your personal and professional growth every step of the way.",
+  "career.culture.remote": "Remote-Friendly",
+  "career.culture.remoteText": "Work from anywhere while staying connected and empowered.",
+
+  "career.perksTitle": "Perks & Benefits",
+  "career.perks.health": "Health Insurance",
+  "career.perks.healthText": "Comprehensive coverage for you and your family.",
+  "career.perks.learning": "Continuous Learning",
+  "career.perks.learningText": "Access to courses, workshops, and mentorship programs.",
+  "career.perks.flexible": "Flexible Hours",
+  "career.perks.flexibleText": "Balance your work and life with flexible scheduling.",
+  "career.perks.teamEvents": "Team Events",
+  "career.perks.teamEventsText": "Regular team activities and celebrations.",
+
+  "career.form.name": "Full Name",
+  "career.form.email": "Email Address",
+  "career.form.message": "Cover Letter",
+  "career.form.submit": "Submit Application",
+
+
+
+    
+    "subscription.heading": "Choose Your Plan",
+    "subscription.description": "Flexible plans for every business. Start with the one that fits your needs.",
+    "subscription.monthly": "Monthly",
+    "subscription.yearly": "Yearly",
+    "subscription.lifetime": "Lifetime",
+    "subscription.perMonth": "per month",
+    "subscription.perYear": "per year",
+    "subscription.oneTime": "one-time payment",
+    "subscription.features.feature1": "Full Access to POS",
+    "subscription.features.feature2": "Smart Inventory",
+    "subscription.features.feature3": "Analytics",
+    "subscription.features.feature4": "Priority Support",
+    "subscription.features.feature5": "All Future Updates",
+  "subscription.subscribe": "Subscribe",
+  "pleaseSignIn": "Please sign in first!",
+  "paymentCreationError": "Failed to create payment",
+  "paymentError": "Payment error, try again.",
+  "processing": "Processing...",
+
+
+
+
+
+
+  "makePayment": "Make Payment",
+  "oneTimePaymentDescription": "Choose the subscription plan that fits your business needs. Pay securely and start using the management system instantly.",
+
+  "monthlySubscription": "Monthly",
+  "yearlySubscription": "Yearly",
+  "lifetimeSubscription": "Lifetime",
+
+  "monthlyDesc": "Cancel anytime",
+  "yearlyDesc": "Best for growing businesses",
+  "lifetimeDesc": "Pay once, use forever",
+
+  "mostPopular": "Most Popular",
+  "bestValue": "Best Value",
+
+  "payNow": "Pay Now",
+  "securePaymentBy": "Secure payment • Instant access",
+
+  "pleaseSignIn": "Please sign in first!",
+  "paymentCreationError": "Failed to create payment",
+  "paymentError": "Payment failed",
+
+
+
+
+
+
+
+
+  "common.back": "Back",
+
+  "career.apply.info": "Your application matters to us. Expect a response from our team within 48 hours",
+
+  "career.form.position": "Job Title",
+  "career.form.name": "Full Name",
+  "career.form.email": "Email Address",
+  "career.form.phone": "Phone Number",
+  "career.form.cv": "Upload CV (PDF)",
+  "career.form.message": "Why should we hire you?",
+  "career.form.submit": "Apply Now",
+
+  "career.toast.cvRequired": "Please upload your CV",
+  "career.toast.success": "Application sent successfully 🚀",
+
+  "career.toast.cvRequired": "Please upload your CV",
+  "career.toast.success": "Application sent successfully 🚀",
+  "career.toast.error": "Something went wrong",
+  "career.toast.serverError": "Server error, please try again later",
+
+
+
+  "aboutMe": "Accounting graduate, learned a lot of computer science and many programming languages, and is proficient in management, accounting, and mathematics. He creates websites and web programs using Next-JS and can create administrative accounting programs to manage companies and projects using Node-JS and Next-JS. He is proficient in working on many computer programs such as graphics programs. He worked as a graphic designer in his childhood and is proficient in computer management, Windows and Linux, and learned networks such as CCNA and more.",
+  
+  "myName": "David Atef Zaki Erian",
+  
+  "experience": "Experience",
+  "education": "Education",
+  "contactMe": "Contact Me",
+  "contactDescription": "Feel free to get in touch for freelance projects or full-time job opportunities.",
+  "emailMe": "Email Me",
+
+  
+  "job1.role": "Full-Stack Developer",
+  "job1.company": "Upwork / Various Clients",
+  "job1.period": "2017 - Present",
+  "job1.desc": "Building scalable web applications using Next.js, React, TailwindCSS, Prisma, and PostgreSQL."
+  ,"job2.role": "Expert WordPress Developer",
+  "job2.company": "Upwork",
+  "job2.period": "2017 - 2023",
+  "job2.desc": "Building scalable Websites and Themes using PHP, Bootstrap, JQuery, and MySQL.",
+  "job3.role": "Cybersecurity & Network Administrator",
+  "job3.company": "Tito Center",
+  "job3.period": "2013 - 2016",
+  "job3.desc": "Administered and monitored network infrastructure including routers, switches, and firewalls, Administered and monitored network infrastructure including routers, switches, and firewalls."
+,
+
+
+  "edu1.degree": "Bechelor of Cemmerce Accounting Division",
+  "edu1.school": "University of Commerce",
+  "edu1.period": "2014 - 2018",
+
+  "dashboard": "Dashboard",
+  "subscribe": "Subscribe",
+
+
+  
+  "choosePlan": "Choose Your Plan",
+  "planDescription": "Select the best plan that fits your business needs.",
+  "monthly": "Monthly",
+  "yearly": "Yearly",
+  "lifetime": "Lifetime",
+
+  "monthlyDesc": "Pay monthly and enjoy full access.",
+  "yearlyDesc": "Save more with yearly subscription.",
+  "lifetimeDesc": "One-time payment for lifetime access.",
+
+  "payNow": "Pay Now",
+  "processing": "Processing...",
+  "loginRequired": "You must login first",
+  "paymentFailed": "Payment failed, try again",
+
+  "completePayment": "Complete Your Payment",
+  "paymentDesc": "You're one step away from unlocking all premium features. Secure and instant payment.",
+  "loadingPayment": "Loading payment page...",
+  "iframeError": "Failed to load payment page",
+
+  "secure": "Secure Payment",
+
+
+  
+
+  "creditSales": "Credit Sales",
+  "addCustomer": "Add Customer",
+  "name": "Name",
+  "phone": "Phone",
+  "email": "Email",
+  "address": "Address",
+  "add": "Add",
+  "selectCustomer": "Select Customer",
+  "select": "Select",
+  "noCustomerFound": "No customer found",
+  "products": "Products",
+  "searchProduct": "Search product...",
+  "wholesale": "Wholesale",
+  "sellingPrice": "Selling Price",
+  "quantityInStock": "Quantity in stock",
+  "noPurchases": "No purchases",
+  "minimumAlertLevelNum": "Minimum alert level",
+  "profit": "Profit",
+  "code": "Code",
+  "sale.cart": "Cart",
+  "sale.emptyCart": "Cart is empty",
+  "sale.subtotal": "Subtotal",
+  "sale.searchOutlet": "Search outlet...",
+  "sale.total": "Total",
+  "sale.completeSale": "Complete Sale",
+  "available": "Available",
+  "notEnoughStock": "Not enough stock",
+  "customer": "Customer",
+  "products": "Products",
+  "total": "Total",
+  "status": "Status",
+  "date": "Date",
+  "actions": "Actions",
+  "pending": "Pending",
+  "paid": "Paid",
+  "pay": "Pay",
+  "print": "Print",
+  "No data": "No data",
+  "outlet": "Outlet",
+  "product": "Product",
+  "quantity": "Quantity",
+  "price": "Price",
+  "thankYou": "Thank you!",
+  "saleReceipt": "Sale Receipt",
+  "creditSaleInvoice": "Credit Sale Invoice",
+  "noCustomer": "No customer",
+  "qty": "Qty",
+  "nameRequired": "Name required",
+  "customerAdded": "Customer added",
+  "removedFromCart": "Removed from cart",
+  "addedToCart": "Added to cart",
+  "noProductsInStock": "No products in stock",
+  "noProductsInCart": "No products in cart",
+  "creditSaleAdded": "Credit sale added successfully",
+  "selectCustomer": "Please select a customer",
+  "toast.productFound": "Product found",
+  "toast.productNotFound": "Product not found",
+  "dashboard.error": "Something went wrong",
+  
+
+
+
+
+  "creditSales": "Credit Sales",
+  "addCustomer": "Add Customer",
+  "name": "Name",
+  "phone": "Phone",
+  "email": "Email",
+  "address": "Address",
+  "add": "Add",
+  "selectCustomer": "Select Customer",
+  "select": "Select",
+  "noCustomerFound": "No customer found",
+  "products": "Products",
+  "searchProduct": "Search product...",
+  "wholesale": "Wholesale",
+  "sellingPrice": "Selling Price",
+  "quantityInStock": "Quantity in stock",
+  "noPurchases": "No purchases",
+  "minimumAlertLevelNum": "Minimum alert level",
+  "profit": "Profit",
+  "code": "Code",
+  "sale.cart": "Cart",
+  "sale.emptyCart": "Cart is empty",
+  "sale.subtotal": "Subtotal",
+  "sale.searchOutlet": "Search outlet...",
+  "sale.total": "Total",
+  "sale.completeSale": "Complete Sale",
+  "available": "Available",
+  "notEnoughStock": "Not enough stock",
+  "customer": "Customer",
+  "total": "Total",
+  "status": "Status",
+  "date": "Date",
+  "actions": "Actions",
+  "pending": "Pending",
+  "paid": "Paid",
+  "pay": "Pay",
+  "print": "Print",
+  "No data": "No data",
+  "outlet": "Outlet",
+  "product": "Product",
+  "quantity": "Quantity",
+  "price": "Price",
+  "thankYou": "Thank you!",
+  "saleReceipt": "Sale Receipt",
+  "creditSaleInvoice": "Credit Sale Invoice",
+  "noCustomer": "No customer",
+  "qty": "Qty",
+  "nameRequired": "Name required",
+  "customerAdded": "Customer added",
+  "removedFromCart": "Removed from cart",
+  "addedToCart": "Added to cart",
+  "noProductsInStock": "No products in stock",
+  "noProductsInCart": "No products in cart",
+  "creditSaleAdded": "Credit sale added successfully",
+  "selectCustomerError": "Please select a customer",
+  "SearchCustomers": "Search customers...",
+  "pdf": "PDF",
+  "excel": "Excel",
+  "csv": "CSV",
+  "creditCustomers": "Credit Customers",
+  "customers": "Customers",
+  "dashboard.error": "Something went wrong",
+  "toast.productFound": "Product found",
+  "toast.productNotFound": "Product not found",
+
+
+  "confirmPayment": "Are you sure?",
+"confirmPaymentDesc": "This action will mark this sale as paid.",
+"confirm": "Confirm",
+"cancel": "Cancel",
+
+
+
+  "creditTransactions": "Credit Transactions",
+
+  "search": "Search...",
+  "customer": "Customer",
+  "products": "Products",
+  "total": "Total",
+  "status": "Status",
+  "date": "Date",
+  "actions": "Actions",
+  "pending": "Pending",
+  "paid": "Paid",
+  "pdf": "PDF",
+  "excel": "Excel",
+  "csv": "CSV",
+  "print": "Print",
+  "No data": "No data",
+  "unknown": "Unknown",
+  "confirmPayment": "Are you sure?",
+  "confirmPaymentDesc": "This action will mark this sale as paid.",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+
+
+
+  "card": "Card",
+  "wallet": "Wallet"
+
+
+
+  
+}
+
+
+

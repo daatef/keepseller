@@ -1,0 +1,87 @@
+.order-page {
+	 background-color: var(--web-primary-background-color);
+	 color: var(--web-primary-text-color);
+	 width: 100%;
+}
+ .order-page .go-back {
+	 display: flex;
+	 padding: 10px 0;
+	 cursor: pointer;
+}
+ .order-page .go-back .go-back-icon {
+	 width: 12px;
+}
+ .order-page .go-back span {
+	 margin: 0 5px;
+}
+ .order-page .order-container {
+	 display: flex;
+	 width: 100%;
+	 height: auto !important;
+	 overflow: hidden;
+	 justify-content: center;
+	 align-items: center;
+	 background-color: var(--web-primary-background-color);
+	 color: var(--primary-text-color);
+}
+ .order-page .order-container .form-container {
+	 flex: 50%;
+}
+ .order-page .order-container .form-container .number a {
+	 display: flex;
+}
+ .order-page .order-container .form-container .number .phone {
+	 height: 20px !important;
+	 margin-right: 10px;
+}
+ .order-page .order-container .form-container h1 {
+	 font-size: 35px;
+	 color: var(--web-primary-text-color);
+	 font-weight: bold;
+}
+ .order-page .order-container .form-container input, .order-page .order-container .form-container textarea {
+	 color: #fff;
+	 background-color: #000;
+	 border: none;
+	 outline: 1px;
+	 box-shadow: none;
+	 padding: 10px 20px;
+	 transition: all ease-in-out 0.5s;
+
+
+}
+
+ .order-page .order-container .form-container .btn {
+	 padding: 15px 0;
+	 background-color: #fff;
+	 color: #000;
+	 border: none;
+	 letter-spacing: 0;
+	 font-weight: bold;
+}
+ .order-page .order-container .image-container {
+	 flex: 50%;
+	 background-color: var(--web-primary-background-color);
+	 width: 100%;
+	 height: 100%;
+	 justify-content: center;
+	 align-items: center;
+	 display: flex;
+}
+ .order-page .order-container .image-container .img {
+	 width: 100%;
+	 margin: auto auto;
+}
+ @media only screen and (max-width: 639px) {
+	 .order-container {
+		 flex-direction: column !important;
+		 height: auto !important;
+	}
+	 .order-container .form-container {
+		 flex: 100% !important;
+	}
+	 .order-container .image-container {
+		 flex: 100% !important;
+	}
+}
+ 
